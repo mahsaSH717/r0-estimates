@@ -1,0 +1,40 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "instance_global_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "instance_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "template_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "template_number": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "cord_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "main_cord_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "response": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
