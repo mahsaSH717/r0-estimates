@@ -1,0 +1,8 @@
+../../../experimental_results/flan_t5_finetuning/text_based\drop_3\checkpoint-1893
+../../../experimental_results/flan_t5_finetuning/text_based\drop_4\checkpoint-743
+../../../experimental_results/flan_t5_finetuning/text_based\squad_v2_10\checkpoint-946
+../../../experimental_results/flan_t5_finetuning/text_based\squad_v2_5\checkpoint-1487
+../../../experimental_results/flan_t5_finetuning/text_based\squad_v2_6\checkpoint-1420
+../../../experimental_results/flan_t5_finetuning/text_based\squad_v2_7\checkpoint-1420
+../../../experimental_results/flan_t5_finetuning/text_based\squad_v2_7\checkpoint-743
+../../../experimental_results/flan_t5_finetuning/text_based\squad_v2_9\checkpoint-743

@@ -1,0 +1,300 @@
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+Modeling COVID-19 Latent Prevalence to Assess a Public Health Intervention at a State and Regional Scale: Retrospective Cohort Study:
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+- - - - Actualmente la epidemia COVID-19 se está desarrollando en la Ciudad de Culiac'an Sinaloa, México, donde hasta el 20 de abril del presente an ha ocurrido 35 decesos asociados con esta epidemia. El n'umero de reproducción $(R_0) de una epidemia representa el n'umero promedio de personas contagiadas por una persona infectada durante su periodo de infeccion. En este trabajo usamos los datos publicados por la Secretaria de Salud del Estado de Sinaloa sobre el n'umero de nuevos casos infectados confirmados por da y estimamos que el valor de $R_0$ es de 1.562 con un intervalo del 95% de confianza dado por (1.401,1.742). Estimamos también la t
+unanswerable
+Maternal respiratory SARS-CoV-2 infection in pregnancy is associated with a robust inflammatory response at the maternal-fetal interface
+METHODS: The SEIR model is a mathematical model of the spread of COVID-19. The model is based on the following parameters: the incubation period = 3.7 days, the proportion of critical cases = 0.05, the overall case-fatality rate = 0.023, and the asymptomatic proportion of COVID-19 = 0.18. The critical step in the prediction of COVID-19 by the model is the value of R0 (the basic reproduction number) and T_infectious (the infectious period, in days). R0 and T_infectious for each phase of the curve are calculated by mathematical constrained optimization, a numerical method. Different from a statistical modelling, a numerical method is a type of mathematical modelling that is not dependent on a probability distribution. The objective function that measures the model error is minimized with respect to R0 and T_infectious in the presence of constraints on those variables. For R0, constraints are valid range of values (0.5 â€° R0 â€° 20). For T_infectious, constraints also are related to its range of values (2 â€° T_infectious â€° 14). A Solver from Excel or NEOS Server, for example, can be used for finding numerically minimum of a function Z, that represents the sum of absolute value of errors between COVID-19 new cases observed in one day, and COVID-19 cases predicted by the SEIR model (Fig. 2 and 3).
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+disease name, location, date, R0 value
+unanswerable
+unanswerable
+unanswerable
+Association between self-reported mask-wearing and control of SARS-CoV-2 transmission in the USA.
+Modeling study demonstrates that mobility restriction can be a proportional response to control the COVID-19 pandemic in Shenzhen, China.
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+Non-visit-based and non-infection-related antibiotic use in the US: a cohort study of privately insured patients during 2016-2018
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+We have estimated key epidemiological parameters of the transmissibility and virulence of COVID-19 in Wuhan City, China, in 2019-2020.
+unanswerable
+unanswerable
+unanswerable
+TURKSAS has been developed and predictions made in 4 scenarios for Turkey.
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+social distancing
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+12 vs 12; 95% CI 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 12120; 1
+unanswerable
+unanswerable
+unanswerable
+Maximum a posteriori estimates range from 7.1 for New Jersey to 2.3 for Wyoming
+unanswerable
+unanswerable
+unanswerable
+1.6ââ€2.2 for the Lima metropolitan area and 1.3ââ€1.5 in the rest of Peru
+unanswerable
+Transmission dynamics and estimation of basic reproduction number (R0 ) from early outbreak of novel coronavirus (covid-19) in india:
+OBJECTIVES: To assess the potential impacts of successive lockdown-easing measures in England, at a point in the COVID-19 pandemic when community transmission levels were relatively high.
+El modelo SEIR se encuentra que, con el nomero bsico de reproducci3n más alto (2,6) y el tasa de letalidad calculada para la ciudad de 2,0%, el nomero mximo de casos se alcanzara el primero de junio con 195 666 (prevalencia); sin embargo, al comparar los casos observados con los esperados, al inicio la ocurrencia observada estaba por el nomero mximo de casos
+unanswerable
+unanswerable
+Simultaneously controlling COVID-19 epidemics and limiting economic and societal impacts presents a difficult challenge, especially with limited public health budgets.
+unanswerable
+unanswerable
+2.0-7.7
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+The basic reproductive number in Spain was 2.5â â 0.1 (95% CI 2.3-2.7), and the doubling time was 2.8â â 0.1 days (95% CI 2.6-3.0)
+unanswerable
+unanswerable
+unanswerable
+Integrating epidemiology with genome sequencing and modeling allows for evidence-based decision making.
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+Increasing the number of people tested and tracing contacts could reduce the risk of a second wave, but it would not prevent the emergence of a new COVID-19 pandemic wave.
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+OBJECTIVES: To estimate the day-zero of the COVID-19 outbreak in Lombardy, Italy, we propose a modified compartmental model with two compartments of infectious persons: one modelling the cases in the population that are asymptomatic or experience very mild symptoms and another modelling the infected cases with mild to severe symptoms. The parameters of the model corresponding to the recovery period, the time from the onset of symptoms to death and the time from exposure to the time that an individual starts to be infectious, have been set as reported from clinical studies on COVID-19. For the estimation of the day-zero of the outbreak in Lombardy, as well as of the "effective" per-day transmission rate for which no clinical data are available, we have used the proposed SEIIRD simulator.
+oOR=0.28, p0.02
+unanswerable
+unanswerable
+unanswerable
+median posterior estimates ranging between 1.4 and 2.8
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+210 Changes in Dream Recall During the COVID-19 Pandemic: Associations with Sleep, Stress and Dream Content
+COVID-19+ (median 482 g/ml, IgG; > 99.9% neutralization) and seronegative (median 36 g /ml, IgG; > 99.9% neutralization) groups.
+unanswerable
+unanswerable
+HCWs most likely to be infected.
+unanswerable
+Population-based interventions, but not for case-based interventions.
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+identifying silent COVID-19 infections among children, a targeted approach to identifying silent infections could significantly mitigate the burden of COVID-19 infection.
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+disease name, location, date, R0 value, %
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+Epidemiological Study of Infection and Death Due to COVID-19 in Fars Province, Iran, From February to September 2020:
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+IFR was a much higher rate than the NYC model parameters.
+unanswerable
+BACKGROUND: Mathematical modeling of virus dynamics has provided quantitative insights into viral infections such as influenza, the simian immunodeficiency virus/human immunodeficiency virus, hepatitis B, and hepatitis C. Through modeling, we can estimate the half-life of infected cells, the exponential growth rate, and the basic reproduction number (R(0)). To calculate R(0) from virus load data, the death rate of productively infected cells is required. This can be readily estimated from treatment data collected during the chronic phase, but is difficult to determine from acute infection data.
+unanswerable
+based on the time-to-death correlations.
+[Epidemiological characteristics of COVID-19 in Gansu province]
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+Chikungunya epidemic in Chad, show that the optimal control model is a multi-parameter model with four time-dependent control functions.
+unanswerable
+Transmission patterns of SARS-CoV-2 infection in Japan are based on sources of infection showing directions for three age groups.
+unanswerable
+SARS-CoV-2: the basic reproduction number: a scoping review of available evidence
+unanswerable
+The transmission probability of each contact was 0.0205, and the serial interval was 6.4?4.6 (95% CI;5.2â€“7.6) days
+unanswerable
+Bayesian Inference of State-Level COVID-19 Basic Reproduction Numbers across the United States:
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+Development of a partnership to improve palliative care services for children in the Gambia: report
+3.1 to 3.5
+5000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+Latitudinal gradient in timing of pandemic activity was influenced by geographical differences in minimum temperature and specific humidity.
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+COVID-19 pandemic outbreak data set to estimate the impact of NPIs on human mobility.
+A model for studying the transmission dynamics of the Delta and Omicron variants of SARS-CoV-2 in the United States: the battle of supremacy in the presence of vaccination, mask usage and antiviral treatment:
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+3.54 (95% credible interval 3.40-3.67)
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+synthesised the results using the 'Risk of bias' assessment.
+1.53, 1.70, and 1.90
+unanswerable
+PD-L1 expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokine expression, cytokin
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+The COVID-19 burden in the Rohingya refugee camps of Bangladesh is estimated to be around $1 billion.
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+L. plantarum induced a significant increase in IL-18 and IL-8 in all subjects. The innate cytokine index was significantly higher in subjects with L. plantarum than in subjects with L. lactis ssp. lactis. The results suggest that L. plantarum may be a promising probiotic for COVID-19.
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+India, the baseline level of COVID-19 control and mitigation strategies could be relaxed to reduce the risk of a pandemic wave.
+Combined isolation and tracing strategies would reduce transmission by 5%, while mass testing would reduce transmission by 5%.
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+Efficacy and Safety of SHR0302, a Highly Selective Janus Kinase 1 Inhibitor, in Patients with Moderate to Severe Atopic Dermatitis: A Phase II Randomized Clinical Trial
+unanswerable
+unanswerable
+1.9 to 6.5, 13 were between 2.0 and 3.0
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable

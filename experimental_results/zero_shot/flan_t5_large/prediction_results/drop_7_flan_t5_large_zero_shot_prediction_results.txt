@@ -1,0 +1,300 @@
+a) COVID-19 outbreak in South Africa; b) COVID-19 outbreak in South Africa; c) COVID-19 outbreak in South Africa; d) COVID-19 outbreak in South Africa;
+R0 value, disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, method
+%CI values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+
+COVID-19 has globally spread to over 4 million people and the epidemic situation in Japan is very serious.
+2.1, the number of new cases in Algeria will peak from around late May to early June and up to 82% of the Algerian population will likely contract the coronavirus
+no
+no
+disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+
+disease name, location, date, R0 value, %CI values, and method
+no
+Modeling COVID-19 Latent Prevalence to Assess a Public Health Intervention at a State and Regional Scale: Retrospective Cohort Study
+
+disease name, location, date, R0 value, %CI values, and method
+Question: What are the values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method?
+COVID-19 infection of Pakistan population and find the parameters using the estimation with the help of nonlinear least square and have [Formula: see text]
+Actualmente la epidemia COVID-19 se está desarrollando en la Ciudad de Culiac'an Sinaloa, México, donde hasta el 20 de abril del presente ao ha ocurrido 35 decesos asociados con esta epidemia. El n'umero de reproducción $(R_0) de una epidemia representa el n'umero promedio de personas contagiadas por una persona infectada durante su periodo de infecci'on. En este trabajo usamos los datos publicados por la Secretaria de Salud del Estado de Sinaloa sobre el n'umero de nuevos casos infectados confirmados por da y estimamos que el valor de $R_0$ es de 1.562 con un intervalo del 95% de confianza dado por (1.401,1.742). Estimamos también la mortalidad de los confirmados casos, que tuvo lugar en 16.8%.
+R0 value, %CI values, and method
+Maternal respiratory SARS-CoV-2 infection in pregnancy is associated with a robust inflammatory response at the maternal-fetal interface
+Model
+no
+%CI values
+disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, method
+R0 value was reduced by 68%, while after the mask recommendation, it was further reduced by 60%
+disease name, location, date, R0 value, %CI values, and method
+0
+no
+COVID-19 pandemic
+R0 value, %CI values, method
+R0 value, disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+Wearing and Physical Distancing Increase the Odds of SARS-CoV-2 Transmission Control in the USA.
+Modeling study based on mobile phone data to build a transmission model for COVID-19 in Shenzhen, China.
+%CI values, method
+- disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+%CI values, method
+no
+%CI values, method
+COVID-19
+no
+%CI values, and method
+%CI values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+%CI values, method
+disease name, location, date, R0 value, %CI values, and method
+BACKGROUND: Bluetongue is a serious disease of ruminants caused by the bluetongue virus (BTV). BTV is transmitted by biting midges (Culicoides spp.). Serological evidence from livestock and the presence of at least one competent vector species of Culicoides suggests that transmission of BTV is possible and may have occurred in Kazakhstan.
+in
+R0 value, %CI values, and method
+read
+no
+%CI values, and method
+R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+Non-visit-based and non-infection-related antibiotic use in the US: a cohort study of privately insured patients during 2016-2018
+no
+R0 value, %CI values, method
+1.5, 2.3, and 3.0
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+Question: What are the values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method?
+%CI values, method
+no
+%CI values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+em R0 value, disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+no
+%CI values, method
+disease name, location, date, R0 value, %CI values, and method
+no
+disease name, location, date, R0 value
+2021 IEEE.
+no
+no
+Wuhan City, China, in 2019-2020.
+%CI values, and method
+%CI values, method
+disease name, location, date, R0 value, %CI values, and method
+The study is the first to use SEIR-based epidemic modeling method to estimate the spread of COVID-19 and healthcare demand in Turkey.
+[Formula: see text] = 80 and [Formula: see text] = 0.2
+nu_1$
+no
+[Formula: see text] (R naught), basic reproduction number, value has ranged between 0.6014 and 2.7860 with an average of 1.4904 and currently holds at 0.8952
+%CI values, method
+no
+disease name : SARS-CoV-2  location : Asia  date : 2014-05-27  R0 value :
+R0)
+%CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+no
+%CI values, and method
+RESULTS: The primary transmission of SARS-CoV-2 in Wuhan was mainly due to the presence of asymptomatic cases. The secondary attack rate was 156%. The primary transmission of SARS-CoV-2 was mainly due to the presence of infants aged 0-1 years. The secondary attack rate was 156%. The primary transmission of SARS-CoV-2 was mainly due to the presence of asymptomatic cases.
+disease name, location, date, R0 value, %CI values, and method
+%CI values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+
+disease name, location, date, R0 value, %CI values, and method
+%CI values, and method
+%CI values
+R0 value, disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+Transmission dynamics and estimation of basic reproduction number (R0 ) from early outbreak of novel coronavirus (covid-19) in india
+R0)
+Recomendaciones de un modelo SEIR para casos de COVID-19 en Cali, Colombia/ Predictions of a SEIR model for COVID-19 cases in Cali-Colombia
+R0 value, %CI values, and method
+R* which is the only free parameter of the model. For a subcritical domain we compute the time till extinction and prevalence as a function of the initial number of infected individuals and R*. For the Polish city of Wroclaw we also discuss the combined impact of testing coverage and contact reduction. For both countries we estimate R* for disease progression until 20th of March 2020.
+COVID-19 epidemic.
+COVID-19 in Chile, March-October, 2020
+BACKGROUND: The cost-effectiveness of social distancing measures for mitigating the COVID-19 pandemic in a highly-populated country: A case study in Indonesia
+R0 value, disease name, location, date, R0 value, %CI values, method
+disease name, location, date, R0 value, %CI values, and method
+%CI values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+R0 value, disease name, location, date, R0 value, %CI values, and method
+%CI values, method
+disease name, location, date, R0 value, %CI values, and method
+The basic reproductive number estimate (R0) is the number of cases that are expected to be transmitted by the virus. The doubling time is the time required for the virus to reach the population. The doubling time is the time required for the virus to reach the population. The doubling time is the time required for the virus to reach the population.
+R0 value, disease name, location, date, R0 value, %CI values, and method
+%CI values, and method
+%CI values, and method
+Genomic epidemiology provides a direct link between the epidemic progression and the evolution of the virus genome.
+disease name, location, date, R0 value, %CI values, and method
+R0 value, disease name, location, date, R0 value, %CI values, method
+R0 value, disease name, location, date, R0 value, %CI values, and method
+COVID-19, age, location, date, R0 value, %CI values, method
+%CI values, method
+disease name, location, date, R0 value, %CI values, and method
+%CI values, method
+%CI values for the following properties: disease name, location, date, R0 value, %CI values, and method
+The results suggest that a range of strategies to reopen schools in the UK, including the current government's proposed strategy, may be a useful tool for assessing the impact of any changes in strategy.
+disease name, location, date, R0 value, %CI values, and method
+for
+R0 value, %CI values, and method
+Question: What are the values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method?
+%CI values, method
+%CI values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+R0 value, disease name, location, date, R0 value, %CI values, and method
+MODEL: A compartmental modelling and numerical optimization approach
+R0
+no
+%CI values
+%CI values, method
+disease name, location, date, R0 value, %CI values, and method
+%CI values, method
+br>
+no
+R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+COVID-19, location, date, R0 value, %CI values, method
+disease name, location, date, R0 value, %CI values, and method
+for
+p0.0005).
+mRNA vaccination of previously infected individuals with no history of acute viral diagnostic testing is sufficient to elicit high levels of anti-SARS-CoV-2 spike receptor binding domain IgG antibody and neutralizing antibody responses.
+disease name, location, date, R0 value, %
+R0 value, disease name, location, date, R0 value, %CI values, and method
+a significant risk factor for transmission of SARS-CoV-2.
+n
+The results suggest that case-based interventions are not sufficient to control COVID-19 outbreaks in Taiwan. Population-based interventions are more effective than case-based interventions in reducing COVID-19 outbreaks.
+R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+BACKGROUND: The pandemic coronavirus disease 2019 (COVID-19) has spread and caused enormous and serious damages to many countries worldwide. One of the most typical interventions is the social distancing such as lockdown that would contribute to reduce the number of contacts among undiagnosed individuals. However, prolongation of the period of such a restrictive intervention could hugely affect the social and economic systems, and the outbreak will come back if the strong social distancing policy will end earlier due to the economic damage. Therefore, the social distancing policy should be followed by massive testing accompanied with quarantine to eradicate the infection.
+disease name, location, date, R0 value, %CI values, and method
+R0=2.5
+disease name, location, date, R0 value, %CI values, and method
+In the absence of vaccine availability for children, a targeted approach to rapidly identify silent COVID-19 infections in this age group could significantly mitigate disease burden.
+Answer: disease name, location, date, R0 value, %CI values, and method
+R0 value, disease name, location, date, R0 value, %CI values, and method
+COVID-19, location, date, R0 value, %CI values, and method
+for each country, the SIR models fitting cumulative infective case data within 5% error are analysed. For each country, the SIR models fitting cumulative infective case data within 5% error are analysed.
+
+disease name, location, date, R0 value, %CI values, and method
+R0 value, disease name, location, date, R0 value, %CI values, and method
+R0 value has a high spike in densely populated districts with the probable flattening of the curve due to lockdown and the rapid rise after the relaxation of lockdown
+Question: What are the values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method?
+R0 value, %CI values, and method
+no
+disease name, location, date, R0 value, %CI values, and method
+Question: What are the values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method?
+a) COVID-19, Bangladesh, March 8 to May 11, 2020, R0 value, %CI values, and method
+no
+R0 value, disease name, location, date, R0 value, %CI values, and method
+no
+disease name, location, date, R0 value, %CI values, and method
+no
+R0 = 0
+Epidemiological study of Coronavirus Disease 2019 (COVID-19) infection and death in Fars Province, Iran, from February to September 2020
+description
+R0 value, %CI values, and method
+Question: What are the values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method?
+no
+COVID-19 infection rate was lower than the NYC model, and the IFR was higher.
+%CI values, method
+The reduced quasi-steady state (RQS) model and the piece-wise regression (PWR) model
+12
+based on the time-delay correlation analysis.
+Epidemiological characteristics of COVID-19 cases in different epidemic stages in Gansu province.
+Question: What are the values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method?
+%CI values, method
+R0 value, %CI values, method
+no
+disease name, location, date, R0 value, %CI values, and method
+Kungunya, are used to validate our model.
+no
+age was higher than that of adult and elderly people.
+R(0) 2.0
+The availability of estimates of R0 for SARS-CoV-2 is a complex issue.
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date,
+If 910 &lt; 1, then the disease free equilibrium point is stable, meaning that the virus spread can be controlled. If 9t0 &gt; 1, then the disease free equilibrium point is unstable, meaning that the virus spread will continue.
+We report state-level estimates of basic reproduction numbers for COVID-19 in the United States using Bayesian inference.
+R0 value, %CI values, and method
+%CI values
+disease name, location, date, R0 value, %CI values, and method
+no
+[Formula: see text]
+R0 value, disease name, location, date, R0 value, %CI values, and method
+no
+The Gambia needs to improve its capacity to provide palliative care services.
+disease name, location, date, R0 value, %CI values, and method
+The combined intervention scenario had a significantly larger effect on the spread of the outbreak than the baseline scenario.
+%CI values
+reader
+disease name, location, date, R0 value, %CI values, and method
+BACKGROUND: The required efforts, feasibility and predicted success of an intervention strategy against an infectious disease are partially determined by its basic reproduction number, R(0). In its simplest form R(0) can be understood as the product of the infectious period, the number of infectious contacts and the per-contact transmission probability, which in the case of vector-borne diseases necessarily extend to the vector stages. As vectors do not usually recover from infection, they remain infectious for life, which places high significance on the vectorââ„s life expectancy. Current methods for estimating the R(0) for a vector-borne disease are mostly derived from compartmental modelling frameworks assuming constant vector mortality rates.
+The 2009 A/H1N1 influenza pandemic in Chile was a highly spatially and temporally diverse pandemic, influenced by climatic conditions, school vacations, and international passengers.
+no
+0
+for
+no
+- disease name, location, date, R0 value, %CI values, and method
+0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0;
+no
+disease name, location, date, R0 value, %CI values, and method
+Multilevel Generalised Linear Mixed Model to estimate the relationship between NPIs and human mobility.
+model) is achieved by combining vaccination with face mask use.
+%CI values, and method
+disease name, location, date, R0 value, %CI values, method
+%CI values, method
+%CI values, method
+%CI values, method
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+2.02
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+Question: What are the values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method?
+%CI values for the following properties: disease name, location, date, R0 value, %CI values, and method
+%CI values, method
+Review authors assessed the validity of the evidence with the 'Risk of bias' assessment.
+no
+disease name, location, date, R0 value, %CI values, and method
+phenotype, cytokine expression, cytokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine
+no
+Answer: disease name
+R0 value, %CI values, and method
+COVID-19 (COVID-19)
+R0 value, %CI values, and method
+COVID-19
+Covid-19, location, date, R0 value, %CI values, and method
+%CI values, method
+Question: What are the values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method?
+COVID-19 cases in Bangladesh.
+no
+%CI values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+Question: What are the values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method?
+%CI values, method
+Single-arm, double-blind, prospective trial, L. plantarum induced a significant increase in innate cytokine responses in all subjects.
+no
+disease name, location, date, R0 value, %CI values, and method
+%CI values, method
+%CI values, method
+A metapopulation modelling approach to the COVID-19 pandemic in India and Pakistan
+week, we found that combined isolation and tracing strategies would reduce transmission more than mass testing or self-isolation alone.
+%CI values, method
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, and method
+R0 value, %CI values,
+R0 value, disease name, location, date, R0 value, %CI values, and method
+
+SHR0302 is a highly selective, Janus kinase 1 inhibitor with a high selectivity profile. It is a new class of inflammatory skin diseases with a high incidence of adverse reactions.
+disease name, location, date, R0 value, %CI values, and method
+R0 value, disease name, location, date, R0 value, %CI values, method
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+no
+disease name, location, date, R0 value, %CI values, and method
+OBJECTIVE: The aim of this study was to systematically review and meta-analyze all literature reporting the basic reproductive number (R0), effective reproductive number (Re or Rt), and the serial interval (SI) values of severe acute respiratory syndrome-coronavirus-2 (SARS-CoV-2) infection.
+disease name, location, date, R0 value, %CI values, and method
+no
+no

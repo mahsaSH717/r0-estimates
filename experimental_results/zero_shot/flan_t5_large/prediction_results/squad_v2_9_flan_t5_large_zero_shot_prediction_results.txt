@@ -1,0 +1,300 @@
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+Modeling COVID-19 Latent Prevalence to Assess a Public Health Intervention at a State and Regional Scale: Retrospective Cohort Study
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+Actualmente la epidemia COVID-19 se está desarrollando en la Ciudad de Culiac'an Sinaloa, México, donde hasta el 20 de abril del presente ao ha ocurrido 35 decesos asociados con esta epidemia. El n'umero de reproducci'on $(R_0)$ de una epidemia representa el n'umero promedio de personas contagiadas por una persona infectada durante su periodo de infecci'on. En este trabajo usamos los datos publicados por la Secretaria de Salud del Estado de Sinaloa sobre el n'umero de nuevos casos infectados confirmados por da y estimamos que el valor de $R_0$ es de 1.562 con un intervalo del 95% de confianza dado por (1.401,1.742). Estimamos también la mortalidad de los confirmados casos, que tuvo lugar en 16.8%.
+unanswerable
+Maternal respiratory SARS-CoV-2 infection in pregnancy is associated with a robust inflammatory response at the maternal-fetal interface
+Model
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+The lower 95% confidence intervals of R(0) exceeded unity
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+Wearing and Physical Distancing Increase the Odds of SARS-CoV-2 Transmission Control in the USA.
+Modeling study based on mobile phone data to build a transmission model for COVID-19 in Shenzhen, China.
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+Non-visit-based and non-infection-related antibiotic use in the US: a cohort study of privately insured patients during 2016-2018
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+reproductive number at 3.18 [3.09, 3.24] (95% confidence interval) prior to lockdown and at 0.68 [0.66, 0.69] during lockdown
+unanswerable
+unanswerable
+unanswerable
+Wuhan City, China, in 2019-2020.
+unanswerable
+unanswerable
+unanswerable
+The study is the first to use SEIR-based epidemic modeling method to estimate the spread of COVID-19 and healthcare demand in Turkey.
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+If the proportion of asymptomatic or unascertained cases is larger than 30%, contact tracing and isolation cannot achieve containment for an R0 of 2.5
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+RESULTS: The primary transmission of SARS-CoV-2 in Wuhan was mainly due to the presence of asymptomatic cases. The secondary attack rate was 156%. The primary transmission of SARS-CoV-2 was mainly due to the presence of infants aged 0-1 years. The secondary attack rate was 156%. The primary transmission of SARS-CoV-2 was mainly due to the presence of asymptomatic cases.
+unanswerable
+unanswerable
+unanswerable
+Maximum a posteriori estimates range from 7.1 for New Jersey to 2.3 for Wyoming
+unanswerable
+unanswerable
+unanswerable
+1.6ââ€2.2 for the Lima metropolitan area and 1.3ââ€1.5 in the rest of Peru
+unanswerable
+Transmission dynamics and estimation of basic reproduction number (R0 ) from early outbreak of novel coronavirus (covid-19) in india
+OBJECTIVES: To assess the potential impacts of successive lockdown-easing measures in England, at a point in the COVID-19 pandemic when community transmission levels were relatively high. DESIGN: We developed a Bayesian model to infer incident cases and reproduction number (R) in England, from incident death data. We then used this to forecast excess cases and deaths in multiple plausible scenarios in which R increases at one or more time points. SETTING: England. PARTICIPANTS: Publicly available national incident death data for COVID-19 were examined. PRIMARY OUTCOME: Excess cumulative cases and deaths forecast at 90 days, in simulated scenarios of plausible increases in R after successive easing of lockdown in England, compared with a baseline scenario where R remained constant.
+Predicciones de un modelo SEIR para casos de COVID-19 en Cali, Colombia/ Predicciones de un modelo SEIR para casos de COVID-19 en Cali, Colombia/
+unanswerable
+unanswerable
+COVID-19 epidemic.
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+COVID-19
+Spain is among the countries worst hit by the Covid-19 pandemic, with one of the highest rate of infections and deaths per million inhabitants.
+unanswerable
+unanswerable
+unanswerable
+Genomic epidemiology of SARS-CoV-2 reveals disease transmission coupled to variant emergence and allelic variation.
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+The UK government has proposed a range of strategies to reopen schools in phases from June 2020, including the current proposal.
+unanswerable
+1.3, 1.3, and 1.4 for Brazil, Sao Paulo, and Rio de Janeiro, respectively
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+MODEL: A compartmental modelling and numerical optimization approach
+oOR=0.28, p0.02
+unanswerable
+unanswerable
+unanswerable
+median posterior estimates ranging between 1.4 and 2.8
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+p0.0005).
+mRNA vaccination of previously infected individuals with no history of acute viral diagnostic testing is sufficient to elicit high levels of immunity.
+SI 1 0 = 6. 52 (95 % CI : 5. 96 - 7. 13 ), SI 2 1 = 6. 01 ( 95 % CI : 5. 44 - 6. 64 ), SI 3 + 2 + = 4. 39 ( 95 % CI : 3. 74 - 5. 15 ), and GI 1 0 = 5. 47 ( 95 % CI : 4. 57 - 6. 45 ), GI 2 1 = 5. 01 ( 95 % CI : 3. 58 - 7. 06 ), GI 3 + 2 + = 4. 25 ( 95 % CI : 2. 82 - 6. 23 )
+unanswerable
+Despite the limitations of genomics for outbreak reconstruction, we found that HCWs played an essential role in cross-transmission of SARS-CoV-2.
+unanswerable
+The results suggest that case-based interventions are not sufficient to control COVID-19 outbreaks in Taiwan. Population-based interventions are more effective than case-based interventions in reducing COVID-19 outbreaks.
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+In the absence of vaccine availability for children, a targeted approach to rapidly identify silent COVID-19 infections in this age group could significantly mitigate disease burden.
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+disease name, location, date, R0 value
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+Epidemiological Study of Infection and Death Due to COVID-19 in Fars Province, Iran, From February to September 2020
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+COVID-19 infection rate was lower than the NYC model, and the IFR was higher.
+unanswerable
+The reduced quasi-steady state model and the piece-wise regression model are derived by simplification of a standard model for the acute-phase dynamics of target cells, viruses and infected cells. By having only a limited number of parameters, both models allow us to reliably estimate the death rate of productively infected cells.
+unanswerable
+based on publicly available time-series data on prevalence and fatalities.
+[Epidemiological characteristics of COVID-19 in Gansu province]
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+Kungunya, are used to validate our model.
+unanswerable
+age was higher than that of adult and elderly people.
+unanswerable
+The availability of estimates of R0 for SARS-CoV-2 is limited.
+unanswerable
+unanswerable
+unanswerable
+We report state-level estimates of basic reproduction numbers for COVID-19 in the United States using Bayesian inference.
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+The Gambia needs to improve its capacity to provide palliative care services.
+3.3 (95%CI, 3.1 to 3.5), and the epidemic peak could be reached by September 2020.
+The combined intervention scenario had a significantly larger effect on the spread of the outbreak than the baseline scenario.
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+The 2009 A/H1N1 influenza pandemic in Chile was characterized by a latitudinal gradient in peak pandemic activity, a 16-39-day lag in disease activity from the southern regions relative to the northernmost region.
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+Multilevel Generalised Linear Mixed Model to estimate the relationship between NPIs and human mobility.
+model) is achieved by combining vaccination with face mask use.
+unanswerable
+unanswerable
+unanswerable
+9:24 for Sao Paulo State, and 8 for Spain
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+Review authors assessed the validity of the evidence with the 'Risk of bias' assessment.
+1.53, 1.70, and 1.90
+unanswerable
+phenotype, cytokine expression, cytokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine titer, chemokine
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+COVID-19 burden in the Rohingya refugee camps of Bangladesh
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+Single-arm, double-blind, prospective trial, L. plantarum induces a high innate cytokine index in all subjects.
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+A metapopulation modelling approach to the COVID-19 pandemic in India and Pakistan
+week, we found that combined isolation and tracing strategies would reduce transmission more than mass testing or self-isolation alone.
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+reproduction number
+unanswerable
+unanswerable
+SHR0302 is a highly selective, Janus kinase 1 inhibitor under investigation for inflammatory skin diseases.
+unanswerable
+unanswerable
+1.9 to 6.5, 13 were between 2.0 and 3.0
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable
+unanswerable

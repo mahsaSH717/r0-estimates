@@ -1,0 +1,300 @@
+COVID-19, basic reproductive number estimate (R0), method, disease name, location, date, R0 value, %CI values, and method
+COVID-19, location, date, R0 value, %CI values, and method
+Middle East respiratory syndrome coronavirus (MERS-CoV) is a respiratory virus that causes respiratory tract infections in humans. It is a member of the coronavirus family, Middle East respiratory syndrome coronavirus. The disease is spread by respiratory tract infections.
+%CI values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+A Stochastic SEIRS Epidemic Model with Infection Forces and Intervention Strategies
+COVID-19 has globally spread to over 4 million people and the epidemic situation in Japan is very serious
+COVID-19, location, date, R0 value, %CI values, method
+%CI values for the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+%CI values for basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+COVID-19, location, date, R0 value, %CI values, and method
+COVID19, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+COVID-19 pandemic, location, date, R0 value, %CI values, and method
+BACKGROUND: Sustainable border control policy in the COVID-19 pandemic: A math modeling study
+COVID-19, disease name, location, date, R0 value, %CI values, method
+COVID-19 disease name, location, date, R0 value, %CI values, and method
+Charlotte Region.
+The basic reproductive number, R(0), is one of the most common and most commonly misapplied numbers in public health. Often used to compare outbreaks and forecast pandemic risk, this single number belies the complexity that different epidemics can exhibit, even when they have the same R(0).
+disease name, location, date, R0 value, %CI values, method
+Social distancing merely stabilized COVID-19 in the US
+COVID-19 infection of Pakistan population and find the parameters using the estimation with the help of nonlinear least square and have [Formula: see text]
+Actualmente la epidemia COVID-19 se está desarrollando en la Ciudad de Culiac'an Sinaloa, México, donde hasta el 20 de abril del presente ao ha ocurrido 35 decesos asociados con esta epidemia. El n'umero de reproducción $(R_0) de una epidemia representa el n'umero promedio de personas contagiadas por una persona infectada durante su periodo de infeccion. En este trabajo usamos los datos publicados por la Secretaria de Salud del Estado de Sinaloa sobre el n'umero de nuevos casos infectados confirmados por da y estimamos que el valor de $R_0$ es de 1.562 con un intervalo del 95% de confianza dado por (1.401,1.742). Estimamos también la ta
+R0 value, disease name, location, date, R0 value, %CI values, and method
+SARS-CoV-2 infection in late pregnancy is associated with immune activation at the maternal-fetal interface even in the absence of detectable local viral invasion.
+COVID-19
+COVID-19, disease name, location, date, R0 value, %CI values, and method
+What are the values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method?
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+R0, disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+COVID-19 pandemic has been proposed incorporating imperfect quarantine and disrespectful behavior of citizens towards lockdown policies, which are evident in most of the developing countries. An integer derivative model has been proposed initially and then the formula for calculating basic reproductive number, R 0 of the model has been presented.
+disease name, location, date, R0 value, %CI values, and method
+Using an age-structured, deterministic model, we explore potential immunity dynamics using contact data from the UK population.
+R0 value, %CI values, method
+Self-reported mask-wearing and physical distancing are associated with a higher probability of transmission control.
+Modeling study based on mobile phone data to simulate the effects of mobility restrictions on the spread of COVID-19 in Shenzhen, China.
+%CI values for the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+a SI2R2D compartmental model with uncertainty evaluation
+disease name, location, date, R0 value, %CI values, and method
+CDC Basic Reproduction Number Estimate (R0)
+disease name, location, date, R0 value, %CI values, and method
+The role of lockdown measures in mitigating COVID-19 in Mexico is investigated using a comprehensive nonlinear ODE model. The model includes both asymptomatic and presymptomatic populations with the latter leading to sickness (with recovery, hospitalization and death as possible outcomes). We consider situations involving the application of social-distancing and other intervention measures in the time series of interest. We find optimal parametric fits to the time series of deaths (only), as well as to the time series of deaths and cumulative infections. We discuss the merits and disadvantages of each approach, we interpret the parameters of the model and assess the realistic nature of the parameters resulting from the optimization procedure. Importantly, we explore a model involving two sub-populations (younger and older than a specific age), to more accurately reflect the observed impact as regards symptoms and behavior in different age groups. For definiteness and to separate people that are (typically in the active workforce), our partition of population is with respect to members younger vs. older than the age of 65. The basic reproduction number of the model is computed for both the single- and the two-population variant. Finally, we consider what would be the impact of partial lockdown (involving only the older population) and full lockdown (involving the entire population) on the number of deaths and cumulative infections.
+COVID-19 pandemic
+disease name, location, date, R0 value, %CI values, and method
+COVID-19, disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+R0, disease name, location, date, R0 value, %CI values, and method
+hantavirus, location, date, R0 value, %CI values, and method
+R0, disease name, location, date, R0 value, %CI values, and method
+COVID-19 disease, the responsible viral pathogen, SARS-CoV-2, has spread around the world in a pandemic. Decisions on how to deal with the crisis are often based on simulations of the pandemic spread of the virus. The results of some of these, as well as their methodology and possibilities for improvement, will be described in more detail in this paper in order to inform beyond the current public health dogma called "flatten-the-curve".
+COVID-19 Pandemic in the United States, Italy, and the United Kingdom
+COVID-19 disease name, location, date, R0 value, %CI values, and method
+%CI values for the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+COVID-19 disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, method
+Coronavirus Disease 2019 (COVID-2019)
+Non-visit-based and non-infection-related antibiotic use in the US: a cohort study of privately insured patients during 2016-2018
+disease name, location, date, R0 value, %CI values, and method
+COVID-19, caused by severe acute respiratory syndrome coronavirus - 2 (SARS-CoV-2), was declared a global pandemic on 11th March, 2020 by World Health Organization. As of now,27th May,2020, there are about 54,88,825 infected cases and 3,49,095 deaths globally. Coronavirus samples collected from all the countries have been sequenced for advanced studies in a bid to understand the structure and functioning of the virus.
+1.5, 2.3, and 3.0
+COVID-19 (COVID-19)
+disease name, location, date, R0 value, %CI values, and method
+COVID-19: Time-Dependent Effective Reproduction Number and Sub-notification Effect Estimation Modeling
+COVID-19
+%CI values for the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+em SEPIR-model
+COVID-19, the reach and scale of COVID-19 cases is top of mind for everyone and many research groups are actively monitoring and exploring the potential spread. A positive consequence of past epidemics and pandemics is that there are sound epidemiological compartmental modelling approaches that can effectively model disease spread. With minor changes to the underlying dynamical system of equations, many different strategies and situations can be explored. In particular, one such strategy of social distancing is top of mind for many Canadians as our political leaders, local businesses, and fellow Canadians promote and adopt this approach with the hopes that it will effectively 'flatten the curve' and reduce or prevent further spread.
+disease name, location, date, R0 value, %CI values, and method
+CDC Public Access
+%CI values for the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+%CI values, method
+disease name, location, date, R0 value, %CI values
+What are the values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method?
+R0 value, %CI values, and method
+R0 value, %CI values, method
+China, using multiple data sources.
+COVID-19 presents an urgent global challenge because of its contagious nature, frequently changing characteristics, and the lack of a vaccine or effective medicines. A model for measuring and preventing the continued spread of COVID-19 is urgently required to provide smart health care services. This requires using advanced intelligent computing such as artificial intelligence, machine learning, deep learning, cognitive computing, cloud computing, fog computing, and edge computing.
+R0: Basic reproduction number estimate (R0)
+disease name, location, date, R0 value, %CI values, and method
+TURKSAS has been developed and predictions made in 4 scenarios for Turkey.
+[Formula: see text] = 80 and [Formula: see text] = 0.2.
+COVID-19, disease name, location, date, R0 value, %CI values, and method
+COVID-19, disease name, location, date, R0 value, %CI values, and method
+COVID-19
+R0 value, %CI values, and method
+R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+If the proportion of asymptomatic or unascertained cases is larger than 30%, contact tracing and isolation cannot achieve containment for an R0 of 2.5.
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+Epidemics generally spread through a succession of waves that reflect factors on multiple timescales. On short timescales, super-spreading events lead to burstiness and overdispersion, while long-term persistent heterogeneity in susceptibility is expected to lead to a reduction in the infection peak and the herd immunity threshold (HIT). Here, we develop a general approach to encompass both timescales, including time variations in individual social activity, and demonstrate how to incorporate them phenomenologically into a wide class of epidemiological models through parameterization.
+R0 value, disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+
+R0 value, %CI values, and method
+
+R0 value, %CI values, and method
+maximum a posteriori estimates range from 7.1 for New Jersey to 2.3 for Wyoming, indicating that disease transmission varies considerably across states and that reaching herd immunity will be more difficult in some states than others
+COVID-19 in the UK: an evolutionary population estimate
+
+What are the values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method?
+R0 value, disease name, location, date, R0 value, %CI values, and method
+COVID-19, location, date, R0 value, %CI values, method
+Transmission dynamics and estimation of basic reproduction number (R0 ) from early outbreak of novel coronavirus (covid-19) in india
+COVID-19, R0
+Predicciones de un modelo SEIR para casos de COVID-19 en Cali, Colombia/ Predicciones de un modelo SEIR para casos de COVID-19 en Cali, Colombia/
+R0 value, disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, and method
+Simultaneously controlling COVID-19 epidemics and limiting economic and societal impacts presents a difficult challenge, especially with limited public health budgets. Testing, contact tracing, and isolating/quarantining is a key strategy that has been used to reduce transmission of SARS-CoV-2, the virus that causes COVID-19. However, manual contact tracing is a time-consuming process and as case numbers increase it takes longer to reach each cases' contacts, leading to additional virus spread. Delays between symptom onset and being tested (and receiving results), and a low fraction of symptomatic cases being tested can also reduce the impact of contact tracing on transmission. We examined the relationship between cases, delays, and participation and the pathogen reproductive number Rt. We also examined implications for infection dynamics using a stochastic compartment model of SARS-CoV-2. We found that Rt increases sigmoidally with the number of cases due to decreasing contact tracing efficacy. This relationship results in accelerating epidemics because Rt increases, rather than declines, as infections increase. Shifting contact tracers from locations with high and low case burdens relative to capacity to locations with intermediate case burdens maximizes their impact in reducing Rt (but minimizing total infections is more complicated). Finally, we found that when cases are low, testing and tracing reductions in Rt can sometimes greatly delay epidemics due to the highly heterogeneous transmission dynamics of SARS-CoV-2, in which a small fraction of infections often give rise to most of transmission. These results demonstrate the importance of having an expandable or mobile team of contact tracers that can be used to control surges in cases. They also emphasize the value of easy access, high testing capacity and rapid turn-around of testing results, as well as outreach efforts to encourage symptomatic infections to be tested immediately after symptom onset. An efficient and adaptive public health capacity strategy can allow for increased economic activity and should be employed in the current and future pan-SARS pandemic.
+COVID-19, location, date, R0 value, %CI values, and method
+BACKGROUND: The cost-effectiveness of social distancing measures for mitigating the COVID-19 pandemic in a highly-populated country: A case study in Indonesia
+R0 value, disease name, location, date, R0 value, %CI values, and method
+%CI values for the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+a Q-SEIR model with nonlinear incidence rates applied to COVID-19
+%CI values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+Severe acute respiratory syndrome-coronavirus 2 (SARS-CoV-2) is the most significant global health crisis of the 21(st) century. The aim of this study was to develop a model to estimate the effect of undocumented infections, seasonal infectivity, immunity, and non-pharmaceutical interventions (NPIs), such as social distancing, on the transmission, morbidity, and mortality of SARS-CoV-2 in New York State (NYS). Simulations revealed dramatic infectivity driven by undocumented infections, and a peak basic reproductive number in NYS of 5.7. NPIs have been effective, and relaxation >50% will result in tens-of-thousands more deaths. Endemic infection is likely to occur in the absence of profound sustained immunity. As a result, until an effective vaccine or other effective pharmaceutical intervention is developed, it will be critical to not reduce NPIs >50% below current levels.
+COVID-19, location, date, R0 value, %CI values, method
+COVID-19, location, date, R0 value, %CI values, method
+Covid-19, epidemic, Spain
+COVID-19, disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, and method
+R0 value, %CI values, and method
+Integrating epidemiology with genome sequencing and modeling allows for evidence-based decision making.
+disease name, location, date, R0 value, %CI values, and method
+- Disease name - Location - Date - R0 value - %CI values - Method
+R0 value, disease name, location, date, R0 value, %CI values, and method
+COVID-19, age, location, date, R0 value, %CI values, and method
+COVID-19, location, date, R0 value, %CI values, and method
+COVID-19, disease name, location, date, R0 value, %CI values, method
+disease name, location, date, R0 value, %CI values, and method
+boundedness and non-negativity of solutions of the model. We analytically calculate the basic reproduction number of the model and perform the stability analysis at the equilibrium points to understand the epidemic and endemic cases based on the basic reproduction number. Our analytical results show that disease free equilibrium point is asymptotically stable (unstable) and endemic equilibrium point is unstable (asymptotically stable) if the basic reproduction number is less than (greater than) unity. The dispersal rate of the infected population and the social awareness control parameter are the main focus of this study. In our model, these parameters play a vital role to control the spread of COVID-19. Our results reveal that regional lockdown and social awareness (e.g., wearing a face mask, washing hands, social distancing) can reduce the pandemic of the current outbreak of novel coronavirus in a most densely populated country like Bangladesh.
+Increasing the number of people tested and tracing contacts could reduce the risk of a second wave, but it would not prevent the emergence of a new wave.
+Coronavirus Disease 2019 (COVID-19) has fast spread to over 200 countries and regions worldwide since its outbreak, while in March, Europe became the emerging epicentre.
+COVID-19, location, date, R0 value, %CI values, method
+R0 value, %CI values, and method
+COVID-19, location, date, R0 value, %CI values, and method
+%CI values for the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+%CI values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+R0 value, method, disease name, location, date, R0 value, %CI values, and method
+a) Estimate the day-zero of the COVID-19 outbreak in Lombardy, Italy b) Estimate the actual number of asymptomatic infected cases in the total population until March 8 c) Estimate the basic (R0)and the effective reproduction number (Re) d) Estimate the "effective" per-day transmission rate for which no clinical data are available
+R0 value, %CI
+COVID-19, location, date, R0 value, %CI values, and method
+The basic reproduction number estimate (R0) is a measure of the probability of a disease being transmitted. The basic reproduction number estimate (R0) is a measure of the probability of a disease being transmitted.
+%CI values, method
+R0 value, disease name, location, date, R0 value, %CI values, method
+%CI values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+bf Abstract.indent three bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf Methodology and Findings: bf
+R0 value, disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, method
+R0 value, %CI values, and method
+
+disease name, location, date, R0 value, %CI values, method
+R0 value, %CI values, and method
+BACKGROUND: Dream recall during the COVID-19 pandemic is associated with sleep, stress, and dream content.
+naive individuals.
+COVID-19 disease name, location, date, R0 value, %CI values, and method
+R0 value, disease name, location, date, R0 value, %CI values, and method
+a higher risk of infection than patients with normal immune function.
+R0 value, %CI values, method
+Case-Based Interventions.
+R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+The basic reproduction number estimate (R0) is a method for estimating the basic reproduction number of a virus. The basic reproduction number estimate (R0) is a method for estimating the basic reproduction number of a virus. The basic reproduction number estimate (R0) is a method for estimating the basic reproduction number of a virus.
+disease name, location, date, R0 value, %CI values, method
+R0=2.5, disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+vaccinate children, targeted approaches to identifying silent COVID-19 infections could significantly reduce attack rates.
+COVID-19, location, date, R0 value, %CI values, and method
+The Basic Reproduction Number Estimate (R0): Disease Name, Location, Date, R0 Value, %CI Values, and Method
+COVID-19, location, date, R0 value, %CI values, and method
+Covid-19, disease name, location, date, R0 value, %CI values, and method
+R0 values for the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+In this work we propose a simple mathematical model for the analysis of the impact of control measures against an emerging infection, namely, the severe acute respiratory syndrome (SARS). The model provides a testable hypothesis by considering a dynamical equation for the contact parameter, which drops exponentially with time, simulating control measures. We discuss the role of modelling in public health and we analyse the distinction between forecasting and projection models as assessing tools for the estimation of the impact of intervention strategies. The model is applied to the communities of Hong Kong and Toronto (Canada) and it mimics those epidemics with fairly good accuracy. The estimated values for the basic reproduction number, R(0), were 1.2 for Hong Kong and 1.32 for Toronto (Canada).
+R0 value, disease name, location, date, R0 value, %CI values, method
+Covid19
+R0, %CI, and method
+disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, method
+R0, R0 value, %CI values, and method
+COVID-19, disease name, location, date, R0 value, %CI values, and method
+R0 value, disease name, location, date, R0 value, %CI values, and method
+R0, disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, method
+R(0) was 3.60 (95% confidence interval: 2.50ââ€5.30)
+R0 value, disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0
+Epidemiological Study of Infection and Death Due to COVID-19 in Fars Province, Iran, From February to September 2020
+R0 value, %CI values, and method
+R0 value, disease name, location, date, R0 value, %CI values, and method
+A New Mathematical Approach for the Estimation of epidemic Model Parameters with Demonstration on COVID-19 Pandemic in Libya
+COVID-19, originating from Wuhan, China in early December, has infected more than 70,000 people in China and other countries and has caused more than 2,000 deaths. As the disease continues to spread, the biomedical society urgently began identifying effective approaches to prevent further outbreaks. Through rigorous epidemiological analysis, we characterized the fast transmission of COVID-19 with a basic reproductive number 5.6 and proved a sole zoonotic source to originate in Wuhan. No changes in transmission have been noted across generations.
+td = 2.8(3.4) days for NYC (Cook County).
+R0, disease name, location, date, R0 value, %CI values, and method
+RQS model and the PWR model
+R0, disease name, location, date, R0 value, %CI values, and method
+time-delay correlation analyses.
+[Epidemiological characteristics of COVID-19 in Gansu province]
+BACKGROUND SARS-CoV-2 RNA quantities, measured by reverse transcription quantitative PCR (RT-qPCR), have been proposed to stratify clinical risk or determine analytical performance targets. We investigated reproducibility and how setting diagnostic cut-offs altered the clinical sensitivity of COVID-19 testing.
+R0 values for COVID-19
+Covid-19: a new virus, a new disease, and a new method
+R0 value, method, disease name, location, date, R0 value, %CI values, and method
+Corona Virus Disease 2019 (COVID-19), location, date, R0 value, %CI values, method
+Chikungunya epidemic in Chad, are used to validate our model.
+/
+Transmission patterns of SARS-CoV-2 infection in Japan are based on the sources of infection.
+%CI values for the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+SARS-CoV-2: a scoping review of available evidence
+disease name, location, date, R0 value, %CI values, and method
+R0 value, disease name
+COVTD-19 is an infectious disease which is spreading as a global pandemy to the whole world. This paper exlplores nonlinear compartemental dynamic models which are used to model the spread of Covid-19. The classical SIR model assumes that the properties of individuals can be divided into three distinct compartments: S(t) is the total of susceptible persons, I(t) is the total of infected persons and R(t) is the total of recovered person from infection and are now immune against the disease.
+Bayesian Inference of State-Level COVID-19 Basic Reproduction Numbers across the United States
+disease name, location, date, R0 value, %CI values, and method
+R0, %CI, method
+disease name, location, date, R0 value, %CI values, and method
+R0 value, disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+R0 value, disease name, location, date, R0 value, %CI values, and method
+R0: disease name, location, date, R0 value, %CI values, and method
+Development of a partnership to improve palliative care services for children in the Gambia
+COVID-19, India, disease name, location, date, R0 value, %CI values, method
+25 cases, corresponding to a median of 25 cases. Interventions to mitigate early spread of SARS-CoV-2 in Singapore: a modelling study
+COVID-19
+disease name, location, date, R0 value, %CI values, and method
+COVID-19, location, date, R0 value, %CI values, method
+BACKGROUND: The required efforts, feasibility and predicted success of an intervention strategy against an infectious disease are partially determined by its basic reproduction number, R(0). In its simplest form R(0) can be understood as the product of the infectious period, the number of infectious contacts and the per-contact transmission probability, which in the case of vector-borne diseases necessarily extend to the vector stages. As vectors do not usually recover from infection, they remain infectious for life, which places high significance on the vectorââ„s life expectancy. Current methods for estimating the R(0) for a vector-borne disease are mostly derived from compartmental modelling frameworks assuming constant vector mortality rates. We hypothesised that some of the assumptions underlying these models can lead to unrealistic high vector life expectancies with important repercussions for R(0) estimates. Here we used a stochastic, individual-based model which allowed us to directly measure the number of secondary infections arising from one index case under different assumptions about vector mortality. Our results confirm that formulas based on age-independent mortality rates can overestimate R(0) by nearly 100% compared to our own estimate derived from first principles. We further provide a correction factor that can be used with a standard R(0) formula and adjusts for the discrepancies due to erroneous vector age distributions.
+Latitudinal gradient in timing of pandemic activity was accompanied by a decreasing gradient in reproduction number from south to north Chile.
+%CI values for the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method?
+%CI values for the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+COVID-19, location, date, R0 value, %CI values, method
+disease name, location, date, R0 value, %CI values, and method
+COVID-19, location, date, R0 value, %CI values, method
+%CI values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+R0 value, method, disease name, location, date, R0 value, %CI values, and method
+COVID-19
+COVID-19 pandemic outbreak data set to estimate the impact of NPIs on human mobility.
+Vaccination and face mask use strategies
+R0, %CI, and method
+disease name, location, date, R0 value, %CI values, method
+COVID-19, disease name, location, date, R0 value, %CI values, and method
+Coronavirus disease 2019 (covid-19), with the fatality rate in elder (60 years old or more) being much higher than young (60 years old or less) patients, was declared a pandemic by the World Health Organization on March 11, 2020. Taking into account this age-dependent fatality rate, a mathematical model considering young and elder subpopulations was formulated based on the natural history of covid-19 to study the transmission of the SARS-CoV-2.
+R0 value, %CI values, and method
+COVID-19, location, date, R0 value, %CI values, and method
+- Disease name - Location - Date - R0 value - %CI values - Method
+disease name, location, date, R0 value, %CI values, and method
+COVID-19
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+What are the values for the properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method?
+%CI values for the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+Covid-19, disease name, location, date, R0 value, %CI values, and method
+Review authors:  Authors:
+Summary Epidemics of novel or re-emerging infectious diseases have quickly spread globally via air travel, as highlighted by pandemic H1N1 influenza in 2009 (pH1N1). Federal, state, and local public health responders must be able to plan for and respond to these events at aviation points of entry. The emergence of a novel influenza virus and its spread to the United States were simulated for February 2009 from 55 international metropolitan areas using three basic reproduction numbers (R 0): 1.53, 1.70, and 1.90. Empirical data from the pH1N1 virus were used to validate our SEIR model. Time to entry to the U.S. during the early stages of a prototypical novel communicable disease was predicted based on the aviation network patterns and the epidemiology of the disease. For example, approximately 96% of origins (R 0 of 1.53) propagated a disease into the U.S. in under 75 days, 90% of these origins propagated a disease in under 50 days. An R 0 of 1.53 reproduced the pH1NI observations. The ability to anticipate the rate and location of disease introduction into the U.S. provides greater opportunity to plan responses based on the scenario as it is unfolding. This simulation tool can aid public health officials to assess risk and leverage resources efficiently.
+disease name, location, date, R0 value, %CI values, and method
+cytokine, chemokine, chemokine receptor, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chem
+%CI values for the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+BACKGROUND: The novel coronavirus disease (COVID-19) culminated in a pandemic with many countries affected in varying stages. We aimed to develop a simulation environment for COVID-19 spread, taking environmental and social factors into account. METHODS: A stochastic point process simulation model for simulating epidemics, a maximum-likelihood estimation model, an exponential growth rate model for calculating the basic reproduction number (R0), and functions for generating graphical representations of the simulations were utilized. Geographical area definition, population size, the number of initial infected individuals, period of simulation, parameters accounting for the radius of spread like masks usage, mobility level, intrinsic viral virulence, average infectious period, fraction of population vaccinated, time of vaccination, the efficacy of the vaccine, presence or absence of quarantine centers, time of establishment of quarantine centers, the efficacy of case detection and average time to quarantine from the detection of the infection were considered.
+disease name, location, date, R0 value, %CI values, and method
+COVID-19 (COVID-19)
+COVID-19 pandemic. In order to prevent further spread and slow down the increase in confirmed cases and deaths, many countries in European Union have taken some interventions since mid-March. In order to prevent further spread and slow down the increase in confirmed cases and deaths, many countries in European Union have taken some interventions since mid-March. In order to prevent further spread and slow down the increase in confirmed cases and deaths, many countries in European Union have taken some interventions since mid-March.
+COVID-19 pandemic: a study of 25 early COVID-19 outbreak countries, which emphasizes on the reproduction of infection and effects of government control measures. The study is based on a vSIADR model which allows asymptomatic and pre-diagnosis infections to reflect COVID-19 clinical realities, and a linear mixed-effect model to analyse the association between each country's control measures and the effective reproduction number R-t.
+Covid-19, location, date, R0 value, %CI values, and method
+%CI values for the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+asymptomatic cohort, disease name, location, date, R0 value, %CI values, and method
+The study aimed to forecast the COVID-19 burden among the Rohingya refugees of Bangladesh to keep up with the disease outbreak's pace, health needs, and disaster preparedness.
+%CI values for the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, and method
+Covid-19, disease name, location, date, R0 value, %CI values, and method
+%CI values for the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method
+L. plantarum induced a significant increase in IL-18 and IL-8 in all subjects. The results of this study suggest that L. plantarum may be a promising probiotic for COVID-19.
+The Impact of Changes in Diagnostic Testing Practices on Estimates of COVID-19 Transmission in the United States
+COVID-19, caused by the SARS-CoV-2 coronavirus, has been declared a pandemic by the World Health Organization (WHO) in March, 2020 and rapidly spread to over 210 countries and territories around the world. By December 24, there are over 77M cumulative confirmed cases with more than 1.72M deaths worldwide.
+COVID-19, location, date, R0 value, %CI values, and method
+COVID-19, disease name, location, date, R0 value, %CI values, and method
+Base Model, we show that the COVID-19 pandemic in India is on a downward trend, and that the pandemic trajectory in Pakistan is much milder, with an estimated projected cumulative mortality of about 24,000 by early September 2021 under the baseline scenario.
+Estimated that the combination of isolation and tracing strategies would reduce transmission by 5% for a given level of symptomatic case incidence.
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+Covid-19 disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, method
+R0 value, disease name, location, date, R0 value, %CI values, and method
+What are the values for the following properties of the basic reproduction number estimate (R0): disease name, location, date, R0 value, %CI values, and method?
+Efficacy and Safety of SHR0302, a Highly Selective Janus Kinase 1 Inhibitor, in Patients with Moderate to Severe Atopic Dermatitis: A Phase II Randomized Clinical Trial
+COVID-19
+R0 value, disease name, location, date, R0 value, %CI values, and method
+R0 value, disease name, location, date, R0 value, %CI values, and method
+COVID-19, location, date, R0 value, %CI values, and method
+COVID-19, location, date, R0 value, %CI values, and method
+COVID-19 Outbreak in a Large Penitentiary Complex, April-June 2020, Brazil
+Meta-Analysis on Serial Intervals and Reproductive Rates for SARS-CoV-2
+COVID-19, location, date, R0 value, %CI values, method
+COVID-19, disease name, location, date, R0 value, %CI values, and method
+Prediction of Epidemics Trend of COVID-19 in Bangladesh

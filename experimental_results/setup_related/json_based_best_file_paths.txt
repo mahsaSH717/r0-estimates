@@ -1,0 +1,8 @@
+../../../experimental_results/flan_t5_finetuning/json_based\drop_3\checkpoint-1149
+../../../experimental_results/flan_t5_finetuning/json_based\drop_6\checkpoint-1893
+../../../experimental_results/flan_t5_finetuning/json_based\drop_6\checkpoint-2010
+../../../experimental_results/flan_t5_finetuning/json_based\squad_v2_10\checkpoint-1690
+../../../experimental_results/flan_t5_finetuning/json_based\squad_v2_4\checkpoint-1758
+../../../experimental_results/flan_t5_finetuning/json_based\squad_v2_6\checkpoint-2010
+../../../experimental_results/flan_t5_finetuning/json_based\squad_v2_8\checkpoint-1555
+../../../experimental_results/flan_t5_finetuning/json_based\squad_v2_9\checkpoint-1082

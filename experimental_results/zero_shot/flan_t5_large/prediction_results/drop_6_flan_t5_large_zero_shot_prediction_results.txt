@@ -1,0 +1,300 @@
+disease name
+COVID-19
+R0 value, R0 value, %CI values, method
+COVID-19
+R0 value
+COVID-19
+COVID-19
+R0 value
+R0 value, %CI values, method
+COVID-19
+disease name, location, date, R0 value, %CI values, and method
+disease name
+COVID-19
+R0 value
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+Charlotte Region.
+R0 value
+disease name
+R0 value, R0 value, %CI values, and method
+COVID-19
+Actualmente la epidemia COVID-19 se está desarrollando en la Ciudad de Culiac'an Sinaloa, México, donde hasta el 20 de abril del presente ao ha ocurrido 35 decesos asociados con esta epidemia. El n'umero de reproducción $(R_0) de una epidemia representa el n'umero promedio de personas contagiadas por una persona infectada durante su periodo de infeccion. En este trabajo usamos los datos publicados por la Secretaria de Salud del Estado de Sinaloa sobre el n'umero de nuevos casos infectados confirmados por da y estimamos que el valor de $R_0$ es de 1.562 con un intervalo del 95% de confianza dado por (1.401,1.742). Estimamos también la ta
+disease name
+Background: Pregnant women are at increased risk for severe outcomes from coronavirus disease 2019 (COVID-19), but the pathophysiology underlying this increased morbidity and its potential effect on the developing fetus is not well understood.
+COVID-19
+COVID-19
+R0 value, 1.33 (1.31, 1.36)
+disease name, location, date, R0 value, %CI values, and method
+%CI
+disease name
+disease name
+disease name
+disease name
+COVID-19
+%CI values
+R0 value, disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, method
+Self-reported mask-wearing and physical distancing are associated with a higher probability of transmission control.
+Modeling study based on mobile phone data to simulate the effects of mobility restrictions on the spread of COVID-19 in Shenzhen, China.
+R0 value
+6.055 to 0 at the end of the national lockdown, then it grows again, but remaining under 1
+disease name
+%CI values
+%CI values
+COVID-19 in Mexico
+%CI
+%CI values
+COVID-19
+disease name, location, date, R0 value, %CI values, and method
+%CI values, method
+%CI
+R0 value, %CI values, method
+COVID-19 disease
+COVID-19
+%CI values
+disease name
+COVID-19
+R0 value, %CI values, method
+disease name, location, date, R0 value, %CI values, and method
+Non-visit-based and non-infection-related antibiotic use in the US: a cohort study of privately insured patients during 2016-2018
+R0 value, %CI values, method
+R0 value
+1.5, 2.3, and 3.0
+%CI values
+R0 value
+disease name
+method
+%CI
+R0 value
+R0 value, %CI values, method
+R0 value
+%CI values
+R0 value, %CI values, and method
+R0 value, %CI values, method
+disease name
+R0 value
+COVID-19, location
+disease name
+R0 value
+disease name, location, date, R0 value, %CI values, and method
+China, using multiple data sources.
+R0 value
+R0 value
+disease name
+TURKSAS has been developed and predictions made in 4 scenarios for Turkey.
+[Formula: see text] = 80
+COVID-19
+disease name, location, date, R0 value, %CI values, and method
+COVID-19
+COVID-19
+R0 value
+disease name, location, date, R0 value, %CI values, and method
+stochastic transmission model
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name
+R0 value
+COVID-19
+
+R0 value
+disease name
+R0 value
+maximum a posteriori estimates range from 7.1 for New Jersey to 2.3 for Wyoming
+COVID-19 in the UK: an evolutionary population estimate
+%CI values
+R0 value
+disease name, location, date, R0 value, %CI values
+COVID-19
+Transmission dynamics and estimation of basic reproduction number (R0 ) from early outbreak of novel coronavirus (covid-19) in india
+COVID-19 pandemic
+Predicciones de un modelo SEIR para casos de COVID-19 en Cali, Colombia/ Predicciones de un modelo SEIR para casos de COVID-19 en Cali, Colombia/
+R0 value
+R0 value
+Simultaneously controlling COVID-19 epidemics and limiting economic and societal impacts presents a difficult challenge, especially with limited public health budgets. Testing, contact tracing, and isolating/quarantining is a key strategy that has been used to reduce transmission of SARS-CoV-2, the virus that causes COVID-19. However, manual contact tracing is a time-consuming process and as case numbers increase it takes longer to reach each cases' contacts, leading to additional virus spread. Delays between symptom onset and being tested (and receiving results), and a low fraction of symptomatic cases being tested can also reduce the impact of contact tracing on transmission. We examined the relationship between cases, delays, and participation and the pathogen reproductive number Rt. We also examined implications for infection dynamics using a stochastic compartment model of SARS-CoV-2. We found that Rt increases sigmoidally with the number of cases due to decreasing contact tracing efficacy. This relationship results in accelerating epidemics because Rt increases, rather than declines, as infections increase. Shifting contact tracers from locations with high and low case burdens relative to capacity to locations with intermediate case burdens maximizes their impact in reducing Rt (but minimizing total infections is more complicated). Finally, we found that when cases are low, testing and tracing reductions in Rt can sometimes greatly delay epidemics due to the highly heterogeneous transmission dynamics of SARS-CoV-2, in which a small fraction of infections often give rise to most of transmission. These results demonstrate the importance of having an expandable or mobile team of contact tracers that can be used to control surges in cases. They also emphasize the value of easy access, high testing capacity and rapid turn-around of testing results, as well as outreach efforts to encourage symptomatic infections to be tested immediately after symptom onset. An efficient and adaptive public health capacity strategy can allow for increased economic activity and should be employed in the current and future pan-SARS pandemic.
+COVID-19 in Chile
+R0 value, infectious period, daily wage, incubation period, daily ICU admission cost, and case fatality rate
+R0 value
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+COVID-19
+R0 value
+COVID-19
+disease name, location, date, R0 value, %CI values, method
+2.5â â 0.1 (95% CI 2.3-2.7)
+%CI
+COVID-19 infection rates
+R0 value
+Integrating epidemiology with genome sequencing and modeling allows for evidence-based decision making.
+disease name
+disease name, location, date, R0 value, %CI values, method
+R0 value
+COVID-19
+COVID-19
+disease name, location, date, R0 value, %CI values, method
+R0 value
+disease name, location, date, R0 value, %CI values, and method
+Increasing the number of people tested and tracing contacts could reduce the risk of a second wave, but it would not prevent the emergence of a new wave.
+disease name, location, date, R0 value, %CI values, method
+COVID-19
+%CI values
+disease name, location, date, R0 value, %CI
+R0 value
+COVID19
+disease name
+a) Estimate the day-zero of the COVID-19 outbreak in Lombardy, Italy b) Estimate the actual number of asymptomatic infected cases in the total population until March 8 c) Estimate the basic (R0)and the effective reproduction number (Re) d) Estimate the "effective" per-day transmission rate for which no clinical data are available
+COVID-19, sex
+disease name
+R0 value
+COVID-19
+median posterior estimates ranging between 1.4 and 2.8
+%CI values
+COVID-19
+R0 value, %CI values, method
+%CI values
+R0 value
+disease name, location, date, R0 value, %CI values, and method
+disease name
+COVID-19
+BACKGROUND: Dream recall during the COVID-19 pandemic is associated with sleep, stress, and dream content.
+naive individuals.
+disease name, location, date
+R0 value, %CI values
+a higher risk of infection than patients with normal immune function.
+disease name
+Case-Based Interventions.
+disease name
+disease name, location, date, R0 value, %CI values, and method
+COVID-19
+disease name
+disease name, location, date, R0 value, %CI values, and method
+COVID-19
+vaccinate children, targeted approaches to identifying silent COVID-19 infections could significantly reduce attack rates.
+R0 value, disease name, location, date, R0 value, %CI values, and method
+R0 value, disease name
+disease name
+R0 value, %CI values, and method
+R0 value
+disease name
+R0 value, disease name, location, date, R0 value, %CI values, and method
+%CI values
+R0 value, R0 value, %CI values, and method
+R0 value
+COVID-19
+disease name, location, date, R0 value, %CI values, method
+R0 value
+disease name
+R0 value, %CI values, method
+R0 value, disease name, location, date, R0 value, %CI values, and method
+disease name
+disease name
+R0 value, %CI values, method
+1.08; 95% CI: 1.04-1.13; p  0.001) and diastolic blood pressure (HR: 1.11; 95% CI: 1.03-1.20; p = 0.005)
+Epidemiological Study of Infection and Death Due to COVID-19 in Fars Province, Iran, From February to September 2020
+%CI values
+R0 value
+disease name
+%CI
+td = 2.8(3.4) days for NYC (Cook County).
+disease name, location, date, R0 value, %CI values, and method
+Improving the estimation of the death rate of infected cells from time course data during the acute phase of virus infections: application to acute HIV-1 infection in a humanized mouse model
+R0 value
+time-delay correlation analyses.
+[Epidemiological characteristics of COVID-19 in Gansu province]
+%CI values
+COVID-19
+R0 value
+R0 value
+disease name
+Chikungunya epidemic in Chad, are used to validate our model.
+R0 value, %CI values, method
+Transmission patterns of SARS-CoV-2 infection in Japan are based on the sources of infection.
+R0 value
+SARS-CoV-2: a scoping review of available evidence
+disease name
+The transmission probability of each contact was 0.0205, and the serial interval was 6.4?4.6 (95% CI;5.2â€“7.6) days
+%CI values
+Bayesian Inference of State-Level COVID-19 Basic Reproduction Numbers across the United States
+COVID-19
+%CI values
+%CI values
+R0 value
+R0 value
+%CI
+COVID-19
+Development of a partnership to improve palliative care services for children in the Gambia
+disease name, location, date, R0 value, %CI values, method
+25 cases, corresponding to a median of 25 cases. Interventions to mitigate early spread of SARS-CoV-2 in Singapore: a modelling study
+%CI
+disease name
+disease name, location, date, R0 value, %CI values, and method
+disease name
+Latitudinal gradient in timing of pandemic activity was accompanied by a decreasing gradient in reproduction number from south to north Chile.
+R0 value
+R0 value
+COVID-19
+disease name
+COVID-19
+disease name
+disease name
+disease name
+COVID-19 pandemic outbreak data set to estimate the impact of NPIs on human mobility.
+Vaccination and face mask use strategies
+R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+R0 value
+disease name
+disease name, location, date, R0 value, %CI values, and method
+disease name
+disease name
+disease name, location, date, R0 value, %CI values, and method
+%CI values
+disease name
+disease name
+COVID-19
+disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, method
+Review authors:  Authors:
+1.53, 1.70, and 1.90
+0.8454 and 2.0317
+cytokine, chemokine, chemokine receptor, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chemokine receptor-positive, chem
+R0 value, %CI values, method
+method
+R0 value, %CI values, and method
+COVID-19
+R0 value
+%CI
+R0 value
+disease name
+COVID-19
+The study aimed to forecast the COVID-19 burden among the Rohingya refugees of Bangladesh to keep up with the disease outbreak's pace, health needs, and disaster preparedness.
+disease name
+disease name, location, date, R0 value, %CI values, and method
+R0 value
+R0 value
+L. plantarum induced a significant increase in IL-18 and IL-8 in all subjects. The results of this study suggest that L. plantarum may be a promising probiotic for COVID-19.
+disease name
+R0 value
+%CI values
+R0 value
+Base Model, we show that the COVID-19 pandemic in India is on a downward trend, and that the pandemic trajectory in Pakistan is much milder, with an estimated projected cumulative mortality of about 24,000 by early September 2021 under the baseline scenario.
+Estimated that the combination of isolation and tracing strategies would reduce transmission by 5% for a given level of symptomatic case incidence.
+disease name, location, date, R0 value, %CI values, method
+disease name
+disease name, location, date, R0 value, %CI values, and method
+R0 value, R0 value, %CI values, and method
+disease name, location, date, R0 value
+R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+Efficacy and Safety of SHR0302, a Highly Selective Janus Kinase 1 Inhibitor, in Patients with Moderate to Severe Atopic Dermatitis: A Phase II Randomized Clinical Trial
+%CI values
+R0 value, location, date, R0 value, %CI values, method
+1.9 to 6.5
+disease name, location, date, R0 value, %CI values, and method
+R0 value
+R0 value, %CI values, method
+disease name
+disease name, location, date, R0 value, %CI values, and method
+R(0)1
+disease name

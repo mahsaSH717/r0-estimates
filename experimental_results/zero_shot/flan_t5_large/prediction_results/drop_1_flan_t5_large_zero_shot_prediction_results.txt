@@ -1,0 +1,300 @@
+COVID-19
+COVID-19
+R0 value
+COVID-19
+R0 value
+COVID-19
+COVID-19
+R0 value
+%CI
+COVID-19
+COVID19
+disease name
+COVID-19
+R0 value
+COVID-19
+%CI values
+Answer based on context: in Modeling COVID-19 Latent Prevalence to Assess a Public Health Intervention at a State and Regional Scale: Retrospective Cohort Study
+R0 value
+COVID-19
+R0 value, disease name, location, date, R0 value, %CI values, and method
+COVID-19
+Actualmente la epidemia COVID-19 se est'a desarrollando en la Ciudad de Culiac'an Sinaloa, México, donde hasta el 20 de abril del presente ano han ocurrido 35 decesos asociados con esta epidemia. El n'umero de reproducci'on $(R_0)$ de una epidemia representa el n'umero promedio de personas contagiadas por una persona infectada durante su periodo de infecci'on. En este trabajo usamos los datos publicados por la Secretaria de Salud del Estado de Sinaloa sobre el n'umero de nuevos casos infectados confirmados por dia y estimamos que el valor de $R_0$ es de 1.562 con un intervalo del 95% de confianza dado por (1.401,1.742).
+R0 value
+ACE2 expression may protect the term placenta from viral infection
+
+no
+R0 value
+COVID-19
+R0 value
+COVID-19 in New York City
+disease name, location, date, R0 value, %CI values, and method
+R0 value
+disease name
+COVID-19
+R0 value, %CI values, and method
+R0 value, disease name, location, date, R0 value, %CI values, and method
+COVID-19
+Reports of face mask-wearing and physical distancing are associated with a higher probability of transmission control.
+Modeling study on the effects of human mobility restrictions on the spread of COVID-19 in Shenzhen, China: a modelling study using mobile phone data
+%CI values
+disease name
+R0 value
+R0 value, %CI values, and method
+%CI values
+COVID-19
+COVID-19
+COVID-19
+COVID-19
+COVID-19
+R0 value, %CI values, and method
+R0 value
+%CI values, method
+COVID-19 disease
+COVID-19
+COVID-19
+%CI values
+COVID-19
+R0 value, %CI values, and method
+R0 value, disease name, location, date, R0 value, %CI values, and method
+Non-visit-based and non-infection-related antibiotic use in the US: a cohort study of privately insured patients during 2016-2018
+COVID-19
+COVID-19
+%CI values
+R0 value
+COVID-19
+%CI values
+COVID-19
+R0 value
+R0 value
+R0 value
+COVID-19
+R0 value, %CI values, and method
+R0 value, %CI values, and method
+R0 value, %CI values, and method
+COVID-19
+R0 value
+disease name, location, date, R
+R0 value
+COVID-19
+R0 value, %CI values, method
+Coronavirus Disease 2019 in Wuhan City, China, in 2019-2020.
+COVID-19
+R0 value
+R0 value
+The spread of COVID-19 and healthcare demand in Turkey, a modelling study
+R0 value
+COVID-19
+R0 value
+COVID-19
+%CI values
+R0 value
+R0 value
+If the proportion of asymptomatic infections is larger than 30%, contact tracing and isolation cannot achieve containment for an R0 of 2.5
+R0 value
+R0 value, %CI values, method
+COVID-19
+R0 value
+R0 value
+R0 value, %CI values, and method
+SARS-CoV-2 patients.
+R0 value
+R0 value, %CI values, and method
+%CI values
+COVID-19
+COVID-19 in the UK: an evolutionary population estimate
+R0 value
+R0 value
+R0 value
+COVID-19
+The time-dependent reproduction number shows the positive effect of lockdown, as this number has gone down.
+R)
+Contexto: Predicciones de un modelo SEIR para casos de COVID-19 en Cali, Colombia/ Predicciones de un modelo SEIR para casos de COVID-19 en Cali-Colombia
+R0 value
+R0 value
+a key strategy to control COVID-19 epidemics and limiting economic and societal impacts
+COVID-19
+COVID-19
+R0 value, location, date, R0 value, %CI values, and method
+R0 value, %CI values, and method
+R0 value, disease name, location, date, R0 value, %CI values, and method
+COVID-19
+R0 value
+R0 value, disease name, location, date, R0 value, %CI values, and method
+COVID-19
+2.5â â 0.1 (95% CI 2.3-2.7), and the doubling time was 2.8â â 0.1 days (95% CI 2.6-3.0)
+COVID-19
+COVID-19
+R0 value
+The spread of SARS-CoV-2 created a pandemic crisis with > 150,000 cumulative cases in > 65 countries within a few months. The reproductive number (R) is a metric to estimate the transmission of a pathogen during an outbreak. Preliminary published estimates were based on the initial outbreak in China. Whole genome sequences analysis found mutational variations in the viral genome; however, previous comparisons failed to show a direct relationship between viral genome diversity, transmission, and the epidemic severity. COVID-19 incidences from different countries were modeled over the epidemic curve. Estimates of the instantaneous R (Wallinga and Teunis method) with a short and standard serial interval were done. WGS were used to determine the populations genomic variation and that underpinned creation of the pathogen genome identity score, which was merged with the outbreak curve in four distinct phases. Inference of transmission time was based on a mutation rate of 2 mutations/month. R estimates revealed differences in the transmission and variable infection dynamics between and within outbreak progression for each country examined. Outside China, our R estimates observed propagating dynamics indicating that other countries were poised to move to the takeoff and exponential stages. Population density and local temperatures had no clear relationship to the outbreak progression. Integrating incidence data with the GENI score directly predicted increases in cases as the genome variation increased that led to new variants.
+COVID-19
+dengue, location, date, R0 value, %CI values, and method
+R0 value
+COVID-19
+COVID-19
+COVID-19
+R0 value
+COVID-19
+reopening individuals
+disease name
+COVID-19
+R0 value
+COVID-19, location, date, R0 value, %CI values, and method
+R0 value
+R0 value, %CI values, and method
+R0 value
+SEIIRD model.
+disease name
+COVID-19
+R0 value
+R0 value
+median posterior estimates ranging between 1.4 and 2.8
+R0 value
+COVID-19
+%CI values, method
+R0 value, %CI values, method
+R0 value
+COVID-19
+R0 value, %CI values, and method
+no
+
+g/ml, IgG; > 99.9% neutralization) and the COVID-19+ (median 482 g/ml, IgG; > 99.9% neutralization) after one dose of COVID-19 mRNA vaccine.
+disease name, location, date, R0 value,
+R0 value, %CI values, and method
+HCWs were more likely to be involved in transmission than patients (p  2.2e-16) and were more likely to be infected with SARS-CoV-2.
+%CI values
+The results suggest that case-based interventions are not sufficient to control COVID-19 outbreaks in Taiwan.
+R0 value, disease name, location, date, R0 value, %CI values, and method
+disease name
+COVID-19
+R0 value, %CI values, method
+R0=2.5
+R0 value
+Simulated Identification of Silent COVID-19 Infections Among Children and Estimated Future Infection Rates With Vaccination
+R0 value
+R0 value, %CI values,
+R0 value, %CI values, and method
+R0 value
+R0 value
+R0 value, %CI values, and method
+R0 value, disease name, location, date, R0 value, %CI values, and method
+R0 value has a high spike in densely populated districts with the probable flattening of the curve due to lockdown and the rapid rise after the relaxation of lockdown
+R0 value, disease name, location, date, R0 value, %CI values, and method
+R0 value
+%CI values
+disease name
+R0 value
+COVID-19
+R0 value, disease name, location, date, R0 value, %CI values, and method
+R0 value, disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, and method
+R0 value
+R0 value
+0
+Epidemiological Study of Infection and Death Due to COVID-19 in Fars Province, Iran, From February to September 2020
+R0 value
+R0 value
+%CI values
+COVID-19
+X = 0.5 - 1.0, R0 = 1.0 - 5.4, X = 0.5 - 1.0, and f = 0.5 - 1.0, with a lower percentage infection of the population.
+R0 value, disease name, location, date, R0 value, %CI values, and method
+Acute HIV-1 infection in a humanized mouse model
+R0 value, %CI values, and method
+time series
+[Epidemiological characteristics of COVID-19 in Gansu province]
+R0 value
+%CI values
+R0 value
+R0 value
+COVID-19
+a vector autoregressive model, are used to simulate the disease dynamics.
+no
+Answer based on context: SARS-CoV-2 infection control implementation based on sources of infection showing directions for three age groups in Japan
+R0 value, %CI values, method
+resides
+disease name
+disease name
+COVTD-19
+Bayesian Inference of State-Level COVID-19 Basic Reproduction Numbers across the United States
+COVID-19
+COVID-19
+%CI values
+R0 value
+R0 value
+R0 value
+COVID-19
+Palliative Care is recommended.
+COVID-19
+Singapore population.
+COVID-19
+R0 value, %CI values, and method
+COVID-19
+%CI values
+peak pandemic activity was influenced by geographical differences in latitude, maximum temperature and specific humidity.
+%CI values
+%CI values
+%CI
+R0 value, R0 value, %CI values, and method
+COVID-19
+R0 value
+COVID-19
+COVID-19
+We demonstrate the utility of combining local disease surveillance data with large scale human mobility data to augment existing surveillance capacity and monitor the impact of NPI policies.
+Omicron) and greater vaccine-derived immunity (in Delta) are achieved by combining vaccination with face mask use.
+R0 value, %CI values, and method
+disease name
+COVID-19
+R0 value
+R0 value
+COVID-19
+R0 value
+COVID-19
+COVID-19
+COVID-19
+disease name
+COVID-19
+%CI
+R0 value, %CI values, method
+Review authors:
+1.53, 1.70, and 1.90
+COVID-19
+avelumab (Av) plus peri-operative chemotherapy (FLOT) in resectable gastric or gastroesophageal junction cancer (GC)
+COVID-19
+%CI
+COVID-19
+COVID-19
+COVID-19
+COVID-19
+Covid-19
+R0 value, %CI values, and method
+COVID-19
+COVID-19 cases in Bangladesh.
+R0 value
+R0 value, disease name, location, date, R0 value, %CI values, and method
+R0 value
+R0 value, %CI values, method
+a result of the innate cytokine responses induced by QFPD.
+%CI
+COVID-19
+COVID-19
+R0 value
+September
+tracing were identified, we estimated that the number of contacts quarantined per day would be 5% for mass random testing and 5% for self-isolation alone.
+R0 value
+R0 value, %CI values, and method
+R0 value, %CI values, and method
+R0 value, R0 value, %CI values, and method
+COVID-19, location, date, R0 value, %CI
+R0 value, %CI values, and method
+R0 value, %CI values, and method
+SHR0302 is a highly selective, Janus kinase 1 inhibitor under investigation for inflammatory skin diseases.
+R0 value
+R0 value, disease name, location, date, R0 value, %CI values, and method
+R0 value
+R0 in this study was estimated to be between 2 and 3 in Qom
+COVID-19
+R0 value, location, date, R0 value, %CI values, method
+disease name
+COVID-19
+R0 value
+COVID-19

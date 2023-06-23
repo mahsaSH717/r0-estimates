@@ -1,0 +1,300 @@
+COVID-19 outbreak in South Africa had a basic reproductive number of 2.95 (95% credible interval [CrI] 2.83-3.33)
+COVID-19
+R0 value, %CI values, and method
+COVID-19
+R(0)(S)  1
+COVID-19
+COVID-19
+R0 value
+R0 value, %CI values, and method
+COVID-19
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+COVID-19
+R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+Modeling COVID-19 Latent Prevalence to Assess a Public Health Intervention at a State and Regional Scale: Retrospective Cohort Study
+R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+COVID-19
+Actualmente la epidemia COVID-19 se est'a desarrollando en la Ciudad de Culiac'an Sinaloa, México, donde hasta el 20 de abril del presente ano han ocurrido 35 decesos asociados con esta epidemia. El n'umero de reproducci'on $(R_0)$ de una epidemia representa el n'umero promedio de personas contagiadas por una persona infectada durante su periodo de infecci'on. En este trabajo usamos los datos publicados por la Secretaria de Salud del Estado de Sinaloa sobre el n'umero de nuevos casos infectados confirmados por dia y estimamos que el valor de $R_0$ es de 1.562 con un intervalo del 95% de confianza dado por (1.401,1.742).
+disease name
+Maternal respiratory SARS-CoV-2 infection in pregnancy is associated with a robust inflammatory response at the maternal-fetal interface
+RESULTS: The SEIR model predicts the actual spread of COVID-19 by a k phases.
+disease name, location, date, R0 value, %CI values, and method
+R0 value, 1.33 (1.31, 1.36)
+disease name, location, date, R0 value, %CI values, and method
+%CI values
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name
+%CI values
+R0 value, %CI values, and method
+COVID-19, location, date, R0 value, %CI values, and method
+Reported mask-wearing and physical distancing are associated with a higher probability of transmission control.
+Modeling study based on mobile phone data
+R0 value
+disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, and method
+R0 value, %CI values, and method
+method
+COVID-19 in Mexico
+COVID-19
+COVID-19
+COVID-19
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+%CI values
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+COVID-19
+COVID-19
+R0 value
+COVID-19
+COVID-19
+disease name, location, date, R0 value, %CI values, and method
+Non-visit-based and non-infection-related antibiotic prescribing in the US: a cohort study of privately insured patients during 2016-2018.
+disease name, location, date, R0 value, %CI values, and method
+COVID-19
+1.5, 2.3, and 3.0
+COVID-19
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name
+R0 value
+COVID-19
+R0 value, %CI values, and method
+R0 value, %CI values, and method
+%CI values
+COVID-19
+R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, and method
+disease name, location, date, R
+R0 value, %CI values, and method
+COVID-19
+disease name, location, date, R0 value, %CI values, and method
+Coronavirus Disease 2019 in Wuhan City, China, in 2019-2020.
+COVID-19
+R0 value
+disease name, location, date, R0 value, %CI values, and method
+The COVID-19 pandemic has revealed the necessity of epidemic modeling studies to evaluate the course of the epidemic and its burden on the health system. Rapid progression of the COVID-19 pandemic has revealed the necessity of epidemic modeling studies to evaluate the course of the epidemic and its burden on the health system. This study aims to estimate the total number of infected people, evaluate the consequences of social interventions on the healthcare system and predict the expected number of cases, intensive care needs, hospitalizations and mortality rates in Turkey according to possible scenarios via the SEIR-based epidemic modeling method.
+[Formula: see text] = 80 and [Formula: see text] = 0.2.
+COVID-19
+disease name, location, date, R0 value, %CI values, and method
+COVID-19
+COVID-19
+R0 value
+R0 value, %CI values, and method
+If the proportion of asymptomatic or unascertained cases is larger than 30%, contact tracing and isolation cannot achieve containment for an R0 of 2.5
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, and method
+COVID-19
+R0 value, %CI values, and method
+SARS-CoV-2 patients.
+R0 value, %CI values, and method
+disease name
+R0 value
+maximum a posteriori estimates range from 7.1 for New Jersey to 2.3 for Wyoming
+COVID-19 in the UK: an evolutionary population estimate
+COVID-19
+R0 value
+R0 value, %CI values, and method
+COVID-19, location, date, R0 value, %CI values, and method
+The basic reproduction number (R0) of COVID-19 from the early epidemic data in India is estimated. The course of the pandemic in India as well as the worst affected seven states in India, namely Maharashtra, Tamil Nadu, Delhi, Gujarat, Uttar Pradesh, Rajasthan and West Bengal is also analyzed. The early outbreak data from the Ministry of Health and Family Welfare (MoHFW) are collected for the analysis. The two R packages âR0â„ and âearlyRâ„ to estimate the basic reproduction number are used. An attempt is also made to forecast near-future incidence cases based on statistical methods. The results show that R0 varies from 1.53 to 3.25 accounting to different methodologies and serial intervals adopted, whereas WHO estimations are from 2 to 2.5. Due to effect of lockdown, the time-dependent reproduction number has reduced to near about 1.22. It is predicted that by July 15, cumulative number of COVID-19 cases may reach around 1.2 million if the current effective reproduction number remains same over the next one month. Finally, it can be concluded that in the coming months, the novel coronavirus will pose a severe challenge to the Indian healthcare system. Thus, it is necessary to predict how the virus may spread so that the healthcare system may be prepared in advance.
+R)
+Recomendaciones de un modelo SEIR para casos de COVID-19 en Cali, Colombia/ Predictions of a SEIR model for COVID-19 cases in Cali-Colombia
+R0 value, R0 value, %CI values, and method
+R0 value
+Simultaneously controlling COVID-19 epidemics and limiting economic and societal impacts presents a difficult challenge, especially with limited public health budgets. Testing, contact tracing, and isolating/quarantining is a key strategy that has been used to reduce transmission of SARS-CoV-2, the virus that causes COVID-19. However, manual contact tracing is a time-consuming process and as case numbers increase it takes longer to reach each cases' contacts, leading to additional virus spread. Delays between symptom onset and being tested (and receiving results), and a low fraction of symptomatic cases being tested can also reduce the impact of contact tracing on transmission.
+COVID-19 in Chile, March-October, 2020
+R0 value, infectious period, daily wage, incubation period, daily ICU admission cost, and case fatality rate
+R0 estimate of 10 4.4 (95% confidence interval: 2.0-7.7)
+disease name, location, date, R0 value, %CI values, and method
+sensitivity and elasticity
+COVID-19
+R0 value, %CI values, and method
+COVID-19
+COVID-19, location, date, R0 value, %CI values, and method
+2.5â â 0.1 (95% CI 2.3-2.7), and the doubling time was 2.8â â 0.1 days (95% CI 2.6-3.0)
+%CI values
+COVID-19 infection rates
+R0 value, %CI values, and method
+The spread of SARS-CoV-2 created a pandemic crisis with > 150,000 cumulative cases in > 65 countries within a few months. The reproductive number (R) is a metric to estimate the transmission of a pathogen during an outbreak. Preliminary published estimates were based on the initial outbreak in China. Whole genome sequences analysis found mutational variations in the viral genome; however, previous comparisons failed to show a direct relationship between viral genome diversity, transmission, and the epidemic severity. COVID-19 incidences from different countries were modeled over the epidemic curve. Estimates of the instantaneous R (Wallinga and Teunis method) with a short and standard serial interval were done. WGS were used to determine the populations genomic variation and that underpinned creation of the pathogen genome identity score, which was merged with the outbreak curve in four distinct phases. Inference of transmission time was based on a mutation rate of 2 mutations/month. R estimates revealed differences in the transmission and variable infection dynamics between and within outbreak progression for each country examined. Outside China, our R estimates observed propagating dynamics indicating that other countries were poised to move to the takeoff and exponential stages. Population density and local temperatures had no clear relationship to the outbreak progression. Integrating the incidence data with the GENI score directly predicted increases in cases as the genome variation increased that led to new variants.
+COVID-19 effective reproduction numbers worldwide and explains their evolution for selected European countries since the start of the pandemic, taking account of changes in voluntary and government-mandated social distancing, incentives to comply, vaccination and the emergence of mutations
+dengue, location, date, R0 value, %CI values, and method
+R0 value, %CI values, and method
+COVID-19
+COVID-19
+disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, and method
+COVID-19
+reopening schools
+disease name, location, date, R0 value, %CI values, and method
+COVID-19
+%CI values
+COVID-19 disease name, location, date, R0 value, %CI values, and method
+disease name
+COVID19
+R0 value
+SEIIRD model.
+disease name, location, date
+disease name
+R0 value
+%CI values
+disease name, location, date, R0 value, %CI values, and method
+%CI values, method
+COVID-19
+R0 value, %CI values, and method
+R0 value, %CI values, and method
+R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name
+COVID-19
+p=0.006; Decreased RRR=1.94,p=0.005).
+g/ml, IgG; > 99.9% neutralization) after one dose of COVID-19 mRNA vaccine.
+disease name, location, date, R0 value,
+disease name
+HCWs were more likely to be involved in transmission than patients (p  2.2e-16) and were more likely to be infected with SARS-CoV-2.
+disease name, location, date, R0 value, %CI values, and method
+The results suggest that case-based interventions are not sufficient to control COVID-19 outbreaks in Taiwan.
+R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+COVID-19
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+COVID-19
+Simulated Identification of Silent COVID-19 Infections Among Children and Estimated Future Infection Rates With Vaccination
+R0 value, R0 value, %CI values, and method
+R0 value, %CI values,
+disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, and method
+R0 value, %CI values, and method
+disease name
+R0 value, %CI values, and method
+R0 value has a high spike in densely populated districts with the probable flattening of the curve due to lockdown and the rapid rise after the relaxation of lockdown
+R0 value, %CI values, and method
+R0 value
+COVID-19
+disease name, location, date, R0 value, %CI values, and method
+R0 value
+disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name
+R0 value
+R0 value, location, date, R0 value, %CI values, and method
+1.08; 95% CI: 1.04-1.13; p  0.001) and diastolic blood pressure (HR: 1.11; 95% CI: 1.03-1.20; p = 0.005)
+Epidemiological Study of Infection and Death Due to COVID-19 in Fars Province, Iran, From February to September 2020
+COVID-19
+disease name, location, date, R0 value, %CI values, and method
+disease name
+COVID-19
+The NYC model parameters have 95% credible intervals of R0 = 3.5, X = 1.0 - 1.9, and f = 0.5 - 1.0, with a lower percentage infection of the population.
+disease name, location, date, R0 value, %CI values, and method
+Improving the estimation of the death rate of infected cells from time course data during the acute phase of virus infections: application to acute HIV-1 infection in a humanized mouse model
+disease name, location, date, R0 value, %CI values, and method
+time series.
+mainly on the initial symptoms.
+R0 value
+COVID-19
+R0 value
+R0 value (5.7 to 6.4, shown in new studies) of SARS-CoV-2
+disease name, location, date, R0 value, %CI values, and method
+a vector-borne disease model, are used to evaluate the model parameters.
+COVID-19
+This retrospective observational case series study analyzed transmission patterns of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections found by local health authorities and commercial laboratories during January 14 through July 31, 2020 in Japan. After ascertaining the infection source for every symptomatic case as clusters at households, daycare facilities, schools, hospitals and workplaces etc., their associated transmission patterns were analyzed.
+R0 value, %CI values, and method
+SARS-CoV-2 is present.
+disease name
+disease name, location,
+%CI values
+Bayesian Inference of State-Level COVID-19 Basic Reproduction Numbers across the United States
+COVID-19
+COVID-19
+%CI values
+R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+%CI
+COVID-19
+The Gambia is a good place to start a partnership to improve children's palliative care services.
+disease name, location, date, R0 value, %CI values, and method
+Singapore population. Interventions to mitigate early spread of SARS-CoV-2 in Singapore: a modelling study
+COVID-19
+disease name, location, date, R0 value, %CI values, and method
+COVID-19
+disease name, location, date, R0 value, %CI values, and method
+peak pandemic activity was influenced by geographical differences in latitude, maximum temperature and specific humidity.
+R0 value, %CI values, and method
+R0 value
+COVID-19
+disease name, location, date, R0 value, %CI values, and method
+COVID-19
+disease name, location, date, R0 value, %CI values, and method
+disease name
+COVID-19
+We demonstrate the utility of combining local disease surveillance data with large scale human mobility data to augment existing surveillance capacity and monitor the impact of NPI policies.
+Delta) and greater reduction in the number of cases (in Omicron) are achieved by combining vaccination with face mask use.
+R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+COVID-19
+disease name
+disease name, location, date, R0 value, %CI values, and method
+COVID-19
+disease name
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name
+COVID-19
+disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, and method
+Review authors:  Authors:
+1.53, 1.70, and 1.90
+0.8454 and 2.0317
+Av is a PD-L1 antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a PD-L1-targeted antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody. It is a monoclonal antibody that is a PD-L1-targeted antibody.
+R0 value
+COVID-19
+%CI values
+COVID-19
+R0 value
+%CI values
+Covid-19
+disease name, location, date, R0 value, %CI values, and method
+COVID-19
+COVID-19 cases in Bangladesh.
+R0 value
+disease name, location, date, R0 value, %CI values, and method
+R0 value
+R0 value, %CI values, and method
+In the single-arm, double-blind, prospective trial, L. plantarum was found to induce a high innate cytokine index in all subjects.
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+COVID-19
+COVID-19
+September.
+tracing were identified, we estimated that the number of contacts quarantined per day would be 5% for mass random testing and 5% for self-isolation alone. The number of contacts quarantined per day would be 5% for mass random testing and 5% for self-isolation alone. The number of contacts quarantined per day would be 5% for mass random testing and 5% for self-isolation alone. The number of contacts quarantined per day would be 5% for mass random testing and 5% for self-isolation alone. The number of contacts quarantined per day would be 5% for mass random testing and 5% for self-isolation alone. The number of contacts quarantined per day would be 5% for mass random testing and 5% for self-isolation alone. The number of contacts quarantined per day would be 5% for mass random testing and 5% for self-isolation alone. The number of contacts quarantined per day would be 5% for mass random testing and 5% for self-isolation alone. The number of contacts quarantined per day would be 5% for mass random testing and 5% for self-isolation alone. The number of contacts quarantined per day would be 5% for mass random testing and 5% for self-isolation alone. The number of contacts quarantined per day would be 5% for mass random testing and 5% for self-isolation alone. The number of contacts quarantined per day would be 5% for mass random testing and 5% for self-isolation alone. The number of contacts quarantined per day would be 5% for mass random testing and 5% for self-isolation alone. The number of contacts quarantined per day would be 5% for mass random testing and 5% for self-isolation alone. The number of contacts quarantined per day would be 5% for mass random testing and 5% for self-isolation alone. The number of contacts quarantined per day would be 5% for mass random testing and 5% for self-isolation alone. The number of contacts quarantined per day would be 5% for mass random testing and 5% for self-isolation alone.
+COVID-19
+disease name
+disease name, location, date, R0 value, %CI values, and method
+R0 value, %CI values, and method
+COVID-19 pandemic disease name, location, date, R0 value, %CI
+R0 value, %CI values, and method
+COVID-19 in India
+SHR0302 is a highly selective, Janus kinase 1 inhibitor under investigation for inflammatory skin diseases.
+disease name, location, date, R0 value, %CI values, and method
+R0 value, disease name, location, date, R0 value, %CI values, and method
+R0 value
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name, location, date, R0 value, %CI values, and method
+disease name
+disease name, location, date, R0 value, %CI values, and method
+COVID-19
+disease name, location, date, R0 value, %CI values, and method

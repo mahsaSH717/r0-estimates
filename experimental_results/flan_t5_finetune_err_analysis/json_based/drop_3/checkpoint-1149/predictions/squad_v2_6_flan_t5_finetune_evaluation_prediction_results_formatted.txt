@@ -1,0 +1,2999 @@
+index: 0
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "South Africa", "date": "-", "R0 value": "2.95", "%CI values": "(95% credible interval [CrI] 2.83-3.33)", "method": "mathematical model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "South Africa", "date": "-", "R0 value": "2.95", "%CI values": "(95% credible interval [CrI] 2.83-3.33)", "method": "mathematical model" } } ]
+-----------------------------------------
+index: 1
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 2
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 3
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 4
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 5
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Japan", "date": "6 January to 31 March 2020", "R0 value": "1.954", "%CI values": "(95% confidence interval (CI) 1.851-2.025)", "method": "-" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Japan", "date": "6 January to 31 March 2020", "R0 value": "1.954", "%CI values": "95% confidence interval (CI) 1.851-2.025", "method": "estimating the current state of epidemic dissemination" } } ]
+-----------------------------------------
+index: 6
+
+Prediction:
+
+[ { "contribution": { "disease name": "coronavirus disease 2019 (COVID-19)", "location": "Algeria", "date": "March 01 to April 10, 2020", "R0 value": "2.1", "%CI values": "-", "method": "SEIR modelling" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "Covid-19", "location": "Algeria", "date": "March 01 to April 10, 2020", "R0 value": "2.1", "%CI values": "-", "method": "SEIR modelling" } } ]
+-----------------------------------------
+index: 7
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 8
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 9
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "China", "date": "before 8th February 2020", "R0 value": "2.33", "%CI values": "(95% CI 1.96-3.69)", "method": "mathematical model with multiple datasets" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "China", "date": "before 8th February 2020", "R0 value": "2.33", "%CI values": "95% CI 1.96-3.69", "method": "Mathematical Model with Multiple Datasets" } } ]
+-----------------------------------------
+index: 10
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 11
+
+Prediction:
+
+[ { "contribution": { "disease name": "SARS-CoV-2", "location": "Paris 2020", "date": "during the first wave", "R0 value": "(2.6)", "%CI values": "-", "method": "-" } }, { "contribution": { "disease name": "SARS-CoV-2", "location": "Paris 2020", "date": "during the first wave", "R0 value": "(6.7)", "%CI values": "-", "method": "-" } }, { "contribution": { "disease name": "SARS-CoV-2", "location": "Paris 2020", "date": "during the first wave", "R0 value": "(1.3)", "%CI values": "-", "method": "-" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "SARS-CoV-2", "location": "a closely monitored hospital outbreak in Paris, entire hospital", "date": "2020 during the first wave", "R0 value": "2.6", "%CI values": "-", "method": "realistic epidemic model" } }, { "contribution": { "disease name": "SARS-CoV-2", "location": "a closely monitored hospital outbreak in Paris, individual wards", "date": "2020 during the first wave", "R0 value": "from 3 to 15", "%CI values": "-", "method": "realistic epidemic model" } }, { "contribution": { "disease name": "SARS-CoV-2", "location": "a closely monitored hospital outbreak in Paris", "date": "2020 during the first wave, mask-wearing policy: before", "R0 value": "8.7", "%CI values": "-", "method": "realistic epidemic model" } }, { "contribution": { "disease name": "SARS-CoV-2", "location": "a closely monitored hospital outbreak in Paris", "date": "2020 during the first wave, mask-wearing policy: after", "R0 value": "1.3", "%CI values": "-", "method": "realistic epidemic model" } } ]
+-----------------------------------------
+index: 12
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 13
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 14
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Philippines", "date": "-", "R0 value": "1.5 to 4", "%CI values": "-", "method": "mathematical model" } } ]
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 15
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Nigeria", "date": "-", "R0 value": "-", "%CI values": "-", "method": "Mathematical model" } } ]
+-----------------------------------------
+index: 16
+
+Prediction:
+
+[ { "contribution": { "disease name": "coronavirus disease (COVID-19)", "location": "North Carolina", "date": "-", "R0 value": "2.56", "%CI values": "(95% CI 2.11-3.25)", "method": "adapted susceptible-infected-removed (SIR) model" } }, { "contribution": { "disease name": "coronavirus disease (COVID-19)", "location": "Charlotte Metropolitan Region", "date": "-", "R0 value": "4.70", "%CI values": "(95% CI 3.77-6.22)", "method": "adapted susceptible-infected-removed (SIR) model" } }, { "contribution": { "disease name": "coronavirus disease (COVID-19)", "location": "North Carolina", "date": "-", "R0 value": "4.01", "%CI values": "(95% CI 3.43-4.83)", "method": "adapted susceptible-infected-removed (SIR) model" } }, { "contribution": { "disease name": "coronavirus disease (COVID-19)", "location": "North Carolina", "date": "-", "R0 value": "-", "%CI values": "-", "method": "adapted susceptible-infected-removed (SIR) model" } }, { "contribution": { "disease name": "coronavirus disease (COVID-19)", "location": "Charlotte Metropolitan Region", "date": "-", "R0 value": "-", "%CI values": "-", "method": "adapted susceptible-infected-removed (SIR) model" } }, { "contribution": { "disease name": "coronavirus disease (COVID-19)", "location": "North Carolina", "date": "-", "R0 value": "-", "%CI values": "-", "method": "adapted susceptible-infected-removed (SIR) model" } }, { "contribution": { "disease name": "coronavirus disease (COVID-19)", "location": "North Carolina", "date": "-", "R0 value": "-", "%CI values": "-", "method": "adapted susceptible-infected-removed (SIR) model" } }, { "contribution": { "disease name": "coronavirus disease (COVID-19)", "location": "Charlotte Metropolitan Region", "date": "-", "R0 value": "-", "%CI values": "-", "method": "adapted susceptible-infected-removed (SIR) model" } }, { "contribution": { "disease name": "coronavirus disease (COVID-19)", "location": "North Carolina", "date": "-", "R0 value": "-", "%CI values": "-", "method": "adapted susceptible-infected-removed (SIR) model" } }, { "contribution": { "disease name": "coronavirus disease (COVID-19)", "location": "North Carolina", "date": "-", "R0 value": "-", "%CI values": "-", "method": "adapted susceptible-infected-removed (SIR) model" } }, { "contribution": { "disease name": "coronavirus disease (COVID-19)", "location": "North Carolina", "date": "-", "R0 value": "-", "%CI values": "-", "method": "adapted susceptible-infected-removed (SIR) model" } }, { "contribution": { "disease name": "coronavirus disease (COVID-19)", "location": "North Carolina", "date": "-", "R0 value": "-", "%CI values": "-", "method": "adapted susceptible-infected-removed (SIR) model" } }, { "contribution": { "disease name": "coronavirus disease (COVID-19)", "location": "Charlotte Metropolitan Region", "date": "-", "R0 value": "-", "%CI values": "-", "method": "adapted susceptible-infected-removed (SIR) model" } }, { "contribution": { "disease name": "coronavirus disease (COVID-19)", "location": "North Carolina", "date": "-", "R0 value": "-", "%CI values": "-", "method": "adapted susceptible-infected-removed (SIR) model" } }, { "contribution": { "disease name": "coronavirus disease (COVID-19)", "location": "North Carolina", "date": "-
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "North Carolina and the Charlotte Metropolitan Region", "date": "-", "R0 value": "-", "%CI values": "-", "method": "susceptible-infected-removed (SIR) model" } } ]
+-----------------------------------------
+index: 17
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 18
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Wuhan, China", "date": "January 1, 2020 and March 8, 2020", "R0 value": "3.54", "%CI values": "(95% credible interval [CrI]: 3.40-3.67)", "method": "a modelling approach" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Wuhan, China", "date": "January 1, 2020 and March 8, 2020", "R0 value": "3.54", "%CI values": "95% credible interval [CrI]: 3.40-3.67", "method": "modelling approach to reconstruct the full-spectrum dynamics of COVID-19" } }, { "contribution": { "disease name": "COVID-19", "location": "Wuhan, China", "date": "as of March 8", "R0 value": "0.28", "%CI values": "(0.23-0.33)", "method": "modelling approach to reconstruct the full-spectrum dynamics of COVID-19" } } ]
+-----------------------------------------
+index: 19
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 20
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 21
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Culiac'n Sinaloa, Mexico", "date": "-", "R0 value": "1.562", "%CI values": "95% confidence interval given by (1.401,1.742)", "method": "-" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Culiacu00e1n Sinaloa, Mexico", "date": "-", "R0 value": "1.562", "%CI values": "(1.401,1.742)", "method": "-" } } ]
+-----------------------------------------
+index: 22
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 23
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 24
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+[ { "contribution": { "disease name": "novel SARS-CoV-2 (COVID-19)", "location": "USA", "date": "-", "R0 value": "R0_1=1.0; R0_2=17.4; R0_3=1.0", "%CI values": "-", "method": "SEIR epidemiological compartmental model (susceptible-exposed-infected-recovered) with k phases" } }, { "contribution": { "disease name": "novel SARS-CoV-2 (COVID-19)", "location": "Brazil", "date": "-", "R0 value": "R0_1=8.0; R0_2=1.3", "%CI values": "-", "method": "SEIR epidemiological compartmental model (susceptible-exposed-infected-recovered) with k phases" } }, { "contribution": { "disease name": "novel SARS-CoV-2 (COVID-19)", "location": "France", "date": "-", "R0 value": "R0_1=4.3; R0_2=9.3; R0_3=0.5", "%CI values": "-", "method": "SEIR epidemiological compartmental model (susceptible-exposed-infected-recovered) with k phases" } } ]
+-----------------------------------------
+index: 25
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Tamil Nadu, India", "date": "March 7, 2020", "R0 value": "1.88", "%CI values": "(min = 1.09, max = 2.51)", "method": "log-linear model" } }, { "contribution": { "disease name": "COVID-19", "location": "Tamil Nadu, India", "date": "March 7, 2020", "R0 value": "0.76", "%CI values": "(min = 0.56, max = 0.99)", "method": "log-linear model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Tamil Nadu, India", "date": "first 41 days of the outbreak started on March 7, 2020", "R0 value": "1.88 (min = 1.09, max = 2.51) and 0.76 (min = 0.56, max = 0.99) in the growth and decay phases", "%CI values": "-", "method": "log-linear regression approach" } } ]
+-----------------------------------------
+index: 26
+
+Prediction:
+
+[ { "contribution": { "disease name": "2009 Influenza", "location": "South Africa", "date": "-", "R0 value": "1.33", "%CI values": "1.31, 1.36", "method": "Network-based approach" } }, { "contribution": { "disease name": "2009 Influenza", "location": "South Africa", "date": "-", "R0 value": "-", "%CI values": "1.23, 1.36", "method": "Network-based approach" } }, { "contribution": { "disease name": "2009 Influenza", "location": "South Africa", "date": "-", "R0 value": "-", "%CI values": "-", "method": "Network-based approach" } }, { "contribution": { "disease name": "2009 Influenza", "location": "South Africa", "date": "-", "R0 value": "-", "%CI values": "-", "method": "Network-based approach" } }, { "contribution": { "disease name": "2009 Influenza", "location": "South Africa", "date": "-", "R0 value": "-", "%CI values": "-", "method": "Network-based approach" } }, { "contribution": { "disease name": "2009 Influenza", "location": "South Africa", "date": "-", "R0 value": "-", "%CI values": "-", "method": "Network-based approach" } }, { "contribution": { "disease name": "2009 Influenza", "location": "South Africa", "date": "-", "R0 value": "-", "%CI values": "-", "method": "Network-based approach" } }, { "contribution": { "disease name": "2009 Influenza", "location": "South Africa", "date": "-", "R0 value": "-", "%CI values": "-", "method": "Network-based approach" } }, { "contribution": { "disease name": "2009 Influenza", "location": "South Africa", "date": "-", "R0 value": "-", "%CI values": "-", "method": "Network-based approach" } }, { "contribution": { "disease name": "2009 Influenza", "location": "South Africa", "date": "-", "R0 value": "-", "%CI values": "-", "method": "Network-based approach" } }, { "contribution": { "disease name": "2009 Influenza", "location": "South Africa", "date": "-", "R0 value": "-", "%CI values": "-", "method": "Network-based approach" } }, { "contribution": { "disease name": "2009 Influenza", "location": "South Africa", "date": "-", "R0 value": "-", "%CI values": "-", "method": "Network-based approach" } }, { "contribution": { "disease name": "2009 Influenza", "location": "South Africa", "date": "-", "R0 value": "-", "%CI values": "-", "method": "Network-based approach" } }, { "contribution": { "disease name": "2009 Influenza", "location": "South Africa", "date": "-", "R0 value": "-", "%CI values": "-", "method": "Network-based approach" } }, { "contribution": { "disease name": "2009 Influenza", "location": "South Africa", "date": "-", "R0 value": "-", "%CI values": "-", "method": "Network-based approach" } }, { "contribution": { "disease name": "2009 Influenza", "location": "South Africa", "date": "-", "R0 value": "-", "%CI values": "-", "method": "Network-based approach" } }, { "contribution": { "disease name" } }, { "contribution": { "disease name": "2009 Influenza", "location": "South Africa", "date": "-", "R0 value": "-", "method": "Network-based approach" } }, { "contribution": { "disease name" } }, { "contribution": { "disease name" } }, { "contribution": { "disease name": "2009 Influenza", "location": "South Africa", "date": "-", "R0 value" } }, { "contribution": { "disease name": "2009 Influenza", "location": "South Africa", "
+
+Label: 
+
+[ { "contribution": { "disease name": "Influenza", "location": "South Africa", "date": "-", "R0 value": "1.33 (1.31, 1.36)", "%CI values": "-", "method": "novel extension of a network-based approach, South Africa as a single entity with homogeneous transmission characteristics" } }, { "contribution": { "disease name": "Influenza", "location": "South Africa", "date": "-", "R0 value": "(1.23-1.37)", "%CI values": "-", "method": "novel extension of a network-based approach, fitting a new model for each province with no inter-province connections" } }, { "contribution": { "disease name": "Influenza", "location": "South Africa", "date": "-", "R0 value": "(1.33 to 1.34) overall", "%CI values": "-", "method": "novel extension of a network-based approach, proposed method with any of the four similarity measures" } } ]
+-----------------------------------------
+index: 27
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 28
+
+Prediction:
+
+[ { "contribution": { "disease name": "SARS-CoV-2", "location": "India", "date": "-", "R0 value": "-", "%CI values": "-", "method": "BDSIR package of BEAST2" } } ]
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 29
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "New York City", "date": "-", "R0 value": "4.60", "%CI values": "-", "method": "SEIR compartmental model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "New York City", "date": "-", "R0 value": "4.60 in Phase 1 without any intervention", "%CI values": "-", "method": "SEIR compartmental model" } } ]
+-----------------------------------------
+index: 30
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Shahroud, Northeast of Iran", "date": "in the early 14 days", "R0 value": "2.7", "%CI values": "(95% confidence interval (CI): 2.1 to 3.4)", "method": "serial interval distribution and the number of incidence cases" } }, { "contribution": { "disease name": "COVID-19", "location": "Shahroud, Northeast of Iran", "date": "by the end of day 41", "R0 value": "1.13", "%CI values": "(95% CI: 1.03 to 1.25)", "method": "serial interval distribution and the number of incidence cases" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Shahroud, Northeast of Iran", "date": "early 14 days", "R0 value": "2.7", "%CI values": "95% confidence interval (CI): 2.1 to 3.4", "method": "the serial interval distribution and the number of incidence cases" } }, { "contribution": { "disease name": "COVID-19", "location": "Shahroud, Northeast of Iran", "date": "by the end of the day 41", "R0 value": "1.13", "%CI values": "95% CI: 1.03 to 1.25", "method": "the serial interval distribution and the number of incidence cases" } } ]
+-----------------------------------------
+index: 31
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 32
+
+Prediction:
+
+[ { "contribution": { "disease name": "Yersinia pestis", "location": "Mukden, China (1946)", "date": "-", "R0 value": "2.8 to 3.5", "%CI values": "-", "method": "serial interval and likelihood based approach" } }, { "contribution": { "disease name": "Yersinia pestis", "location": "Madagascar (1957)", "date": "-", "R0 value": "-", "%CI values": "-", "method": "serial interval and likelihood based approach" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "primary pneumonic plague", "location": "Mukden, China", "date": "1946", "R0 value": "2.8 to 3.5", "%CI values": "The lower 95% confidence intervals of R(0) exceeded unity", "method": "statistical estimation of R(0) based on similar information" } }, { "contribution": { "disease name": "primary pneumonic plague", "location": "Madagascar", "date": "1957", "R0 value": "2.8 to 3.5", "%CI values": "The lower 95% confidence intervals of R(0) exceeded unity", "method": "statistical estimation of R(0) based on similar information" } } ]
+-----------------------------------------
+index: 33
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Cameroon", "date": "as of July 9, 2020", "R0 value": "3.31", "%CI values": "(95% CI : 2.2 - 4.4)", "method": "compartmental mathematical model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Cameroon", "date": "-", "R0 value": "3.41", "%CI values": "( 95 % CI : 2.2 - 4.4 )", "method": "compartmental mathematical model" } } ]
+-----------------------------------------
+index: 34
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Belgium", "date": "-", "R0 value": "-", "%CI values": "-", "method": "standard epidemic three-variable model, SIR (Susceptible, Infected and Removed) is extended into a five-variable model SCARE: Susceptible, Carrier, Affected (i.e. sick), Recovered and Eliminated (i.e. dead)" } } ]
+-----------------------------------------
+index: 35
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 36
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Shiyan City, Hubei Province, China", "date": "-", "R0 value": "1.81", "%CI values": "-", "method": "Epidemiological investigation" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "Coronavirus Disease-2019", "location": "Shiyan City, Hubei Province, China", "date": "-", "R0 value": "1.81", "%CI values": "-", "method": "Epidemiological investigation" } } ]
+-----------------------------------------
+index: 37
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 38
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 39
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 40
+
+Prediction:
+
+[ { "contribution": { "disease name": "SARS-CoV-2", "location": "Tuscany (Italy)", "date": "(February-June 2020)", "R0 value": "6.055", "%CI values": "-", "method": "compartmental model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "SARS-CoV-2", "location": "Tuscany, Italy", "date": "(February-June 2020)", "R0 value": "6.055", "%CI values": "-", "method": "compartmental model" } } ]
+-----------------------------------------
+index: 41
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 42
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 43
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 44
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Mexico", "date": "-", "R0 value": "-", "%CI values": "-", "method": "comprehensive nonlinear ODE model" } } ]
+-----------------------------------------
+index: 45
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 46
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Japan", "date": "Jan 22 to Feb 25 (Period I)", "R0 value": "4.66", "%CI values": "-", "method": "SIRD model and applied the Monte Carlo Simulation" } }, { "contribution": { "disease name": "COVID-19", "location": "Japan", "date": "Feb 26 to Apr 6 (Period II)", "R0 value": "2.55", "%CI values": "-", "method": "SIRD model and applied the Monte Carlo Simulation" } }, { "contribution": { "disease name": "COVID-19", "location": "Japan", "date": "Apr 7 to May 14 (Period III)", "R0 value": "1.79", "%CI values": "-", "method": "SIRD model and applied the Monte Carlo Simulation" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Japan", "date": "Jan 22 to Feb 25 (Period I)", "R0 value": "4.66", "%CI values": "-", "method": "SIRD model and the Monte Carlo Simulation" } }, { "contribution": { "disease name": "COVID-19", "location": "Japan", "date": "Feb 26 to Apr 6 (Period II)", "R0 value": "2.50", "%CI values": "-", "method": "SIRD model and the Monte Carlo Simulation" } }, { "contribution": { "disease name": "COVID-19", "location": "Japan", "date": "Apr 7 to May 14 (Period III)", "R0 value": "1.79", "%CI values": "-", "method": "SIRD model and the Monte Carlo Simulation" } } ]
+-----------------------------------------
+index: 47
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Czech Republic", "date": "March and April", "R0 value": "decrease from > 2.00 to  1.00", "%CI values": "-", "method": "simple epidemiological model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Czech Republic", "date": "March and April 2020", "R0 value": ">2.00 to  1.00", "%CI values": "-", "method": "simple epidemiological model" } } ]
+-----------------------------------------
+index: 48
+
+Prediction:
+
+[ { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "Thailand", "date": "-", "R0 value": "1.25", "%CI values": "-", "method": "Deterministic system dynamics and compartmental models" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "Middle East", "date": "-", "R0 value": "2.5", "%CI values": "-", "method": "Deterministic system dynamics and compartmental models" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "Thailand", "date": "-", "R0 value": "reproduction number (R) between Thais and migrants was estimated at 1.25 and 2.5, respectively", "%CI values": "-", "method": "Deterministic system dynamics and compartmental models" } } ]
+-----------------------------------------
+index: 49
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 50
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+[ { "contribution": { "disease name": "Hantavirus", "location": "Paraguay", "date": "-", "R0 value": "-", "%CI values": "-", "method": "System of ordinary differential equations (ODE) and a continuous-time Markov chain (CTMC) model" } } ]
+-----------------------------------------
+index: 51
+
+Prediction:
+
+[ { "contribution": { "disease name": "Bluetongue", "location": "Kazakhstan", "date": "-", "R0 value": "-", "%CI values": "-", "method": "mathematical model" } } ]
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 52
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 53
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "the United States", "date": "-", "R0 value": "-", "%CI values": "-", "method": "The Distributed Logistic Model and the Adaptive Logistic Model" } }, { "contribution": { "disease name": "COVID-19", "location": "Italy", "date": "-", "R0 value": "-", "%CI values": "-", "method": "The Distributed Logistic Model and the Adaptive Logistic Model" } }, { "contribution": { "disease name": "COVID-19", "location": "United Kingdom", "date": "-", "R0 value": "-", "%CI values": "-", "method": "The Distributed Logistic Model and the Adaptive Logistic Model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "United States, Italy, and the United Kingdom", "date": "-", "R0 value": "0.29 per day for each country", "%CI values": "-", "method": "Distributed Logistic Model and the Adaptive Logistic Model of epidemics" } } ]
+-----------------------------------------
+index: 54
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "India", "date": "1 August 2020 to 30 September 2020", "R0 value": "1", "%CI values": "-", "method": "SIR model and Bayesian approach combined with Monte Carlo Markov algorithms" } } ]
+-----------------------------------------
+index: 55
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 56
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 57
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Milan", "date": "February to May 2020", "R0 value": "3.0", "%CI values": "-", "method": "-" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Metropolitan Area of Milan", "date": "February to May 2020", "R0 value": "3.0", "%CI values": "-", "method": "-" } } ]
+-----------------------------------------
+index: 58
+
+Prediction:
+
+[ { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-2019)", "location": "China", "date": "-", "R0 value": "2.1", "%CI values": "(95% UI=1.8-2.4)", "method": "age-stratified mathematical model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-2019)", "location": "China", "date": "-", "R0 value": "0.66", "%CI values": "(95% UI=0.05-0.07)", "method": "age-stratified mathematical model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-2019)", "location": "China", "date": "late 2019", "R0 value": "2.1", "%CI values": "(95% UI=1.8-2.4)", "method": "age-stratified mathematical model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-2019)", "location": "China", "date": "following onset of interventions", "R0 value": "0.06", "%CI values": "(95% UI=0.05-0.07)", "method": "age-stratified mathematical model" } } ]
+-----------------------------------------
+index: 59
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 60
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "-", "date": "-", "R0 value": "-", "%CI values": "-", "method": "a stochastic SIR model, specified as a system of stochastic differential equations" } } ]
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 61
+
+Prediction:
+
+[ { "contribution": { "disease name": "SARS-2003", "location": "-", "date": "-", "R0 value": "2-5", "%CI values": "-", "method": "-" } }, { "contribution": { "disease name": "MERS-2012", "location": "-", "date": "-", "R0 value": "0.3-0.8", "%CI values": "-", "method": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "-", "date": "-", "R0 value": "1.4- 5.7", "%CI values": "-", "method": "-" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "Coronavirus disease 2019 (COVID-19)", "location": "Global", "date": "27th May, 2020", "R0 value": "1.4- 5.7", "%CI values": "-", "method": "-" } } ]
+-----------------------------------------
+index: 62
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 63
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "United States", "date": "-", "R0 value": "-", "%CI values": "-", "method": "theoretical differential equation mathematical model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "United States", "date": "As of January 19, 2021", "R0 value": "-", "%CI values": "-", "method": "theoretical differential equation mathematical model, estimated model parameters through epidemiological data, obtained accurate mathematical models, and adopted global sensitivity analysis methods" } } ]
+-----------------------------------------
+index: 64
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 65
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 66
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "20 countries", "date": "-", "R0 value": "-", "%CI values": "-", "method": "SEIR (Susceptible-Exposed-Infectious-Recovered) model with both deterministic and stochastic simulations" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "20 countries", "date": "-", "R0 value": "-", "%CI values": "-", "method": "SEIR (Susceptible-Exposed-Infectious-Recovered) model with both deterministic and stochastic simulations" } } ]
+-----------------------------------------
+index: 67
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 68
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 69
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 70
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 71
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 72
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 73
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 74
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Nigeria", "date": "-", "R0 value": "-", "%CI values": "-", "method": "next-generation method" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Nigeria", "date": "-", "R0 value": "less than unity", "%CI values": "-", "method": "next-generation method" } } ]
+-----------------------------------------
+index: 75
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 76
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "u00b11.48", "date": "prior to lockdown", "R0 value": "3.18", "%CI values": "[3.09, 3.24]", "method": "stochastic age-structured transmission model" } }, { "contribution": { "disease name": "COVID-19", "location": "u00b11.48", "date": "during lockdown", "R0 value": "0.68", "%CI values": "[0.66, 0.69]", "method": "stochastic age-structured transmission model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "le-de-France", "date": "prior to lockdown", "R0 value": "3.18", "%CI values": "[3.09, 3.24] (95% confidence interval)", "method": "stochastic age-structured transmission model" } }, { "contribution": { "disease name": "COVID-19", "location": "le-de-France", "date": "during lockdown", "R0 value": "0.68", "%CI values": "[0.66, 0.69]", "method": "stochastic age-structured transmission model" } } ]
+-----------------------------------------
+index: 77
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Canada", "date": "-", "R0 value": "-", "%CI values": "-", "method": "operator theory and spectral method" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "across the globe", "date": "-", "R0 value": "-", "%CI values": "-", "method": "operator theory and spectral method" } } ]
+-----------------------------------------
+index: 78
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 79
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "India", "date": "-", "R0 value": "-", "%CI values": "-", "method": "SEIRD epidemiological model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "coronavirus pandemic (COVID-19)", "location": "India", "date": "-", "R0 value": "-", "%CI values": "-", "method": "SEIRD epidemiological model" } } ]
+-----------------------------------------
+index: 80
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Wuhan City, China", "date": "January-February, 2020", "R0 value": "3.49", "%CI values": "(95% CrI 3.39-3.62)", "method": "statistical methods and publicly available epidemiological datasets" } }, { "contribution": { "disease name": "COVID-19", "location": "Wuhan City, China", "date": "January-February, 2020", "R0 value": "0.84", "%CI values": "(95% CrI 0.81-0.88)", "method": "statistical methods and publicly available epidemiological datasets" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Wuhan City, China", "date": "2019-2020", "R0 value": "3.49", "%CI values": "(95% CrI 3.39-3.62)", "method": "statistical methods" } }, { "contribution": { "disease name": "COVID-19", "location": "Wuhan City, China", "date": "after January 23 in 2020", "R0 value": "0.84", "%CI values": "(95% CrI 0.81-0.88)", "method": "statistical methods" } } ]
+-----------------------------------------
+index: 81
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "KSA", "date": "-", "R0 value": "-", "%CI values": "-", "method": "SIR and machine learning" } } ]
+-----------------------------------------
+index: 82
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 83
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 84
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Turkey", "date": "March 21", "R0 value": "declined from 3 to 1.38", "%CI values": "-", "method": "SEIR-based epidemic modeling method" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Turkey", "date": "-", "R0 value": "3", "%CI values": "-", "method": "SEIR modeling" } }, { "contribution": { "disease name": "COVID-19", "location": "Turkey", "date": "-", "R0 value": "1.38", "%CI values": "-", "method": "SEIR modeling 2nd scenario" } }, { "contribution": { "disease name": "COVID-19", "location": "Turkey", "date": "-", "R0 value": "1.38", "%CI values": "-", "method": "SEIR modeling 3rd scenario" } }, { "contribution": { "disease name": "COVID-19", "location": "Turkey", "date": "-", "R0 value": "0.98", "%CI values": "-", "method": "SEIR modeling 4th scenario" } } ]
+-----------------------------------------
+index: 85
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 86
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 87
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 88
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Saudi Arabia", "date": "-", "R0 value": "ranged between 0.6014 and 2.7860 with an average of 1.4904 and currently holds at 0.8952", "%CI values": "-", "method": "(R naught) model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "coronavirus disease 2019 (COVID-19)", "location": "Saudi Arabia", "date": "-", "R0 value": "0.6014 and 2.7860", "%CI values": "-", "method": "Modified Susceptible-Exposed-Infectious-Recovered (SEIR) Model" } } ]
+-----------------------------------------
+index: 89
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 90
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 91
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "-", "date": "-", "R0 value": "-", "%CI values": "-", "method": "A nonlinear epidemiological model considering asymptotic and quarantine classes" } } ]
+-----------------------------------------
+index: 92
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 93
+
+Prediction:
+
+[ { "contribution": { "disease name": "SARS", "location": "Beijing", "date": "-", "R0 value": "1.0698 to 3.2524", "%CI values": "-", "method": "a mathematical model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "SARS", "location": "Beijing", "date": "from April 27 and cases transferred from suspect class to probable class from May 2", "R0 value": "1.0698 to 3.2524", "%CI values": "-", "method": "two-compartment suspect-probable model and a single-compartment probable model" } } ]
+-----------------------------------------
+index: 94
+
+Prediction:
+
+[ { "contribution": { "disease name": "2019-nCoV", "location": "Wuhan", "date": "till February 12, 2020", "R0 value": "1.44", "%CI values": "(interquartile range: 1.40-1.47)", "method": "SEIR modeling method" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "2019-nCoV", "location": "Wuhan", "date": "after the closure of Wuhan city till February 12, 2020", "R0 value": "1.44", "%CI values": "interquartile range: 1.40-1.47", "method": "SEIR modeling method" } } ]
+-----------------------------------------
+index: 95
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "UK", "date": "between March 2020 and May 2020", "R0 value": "3.23", "%CI values": "-", "method": "-" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "UK", "date": "March 2020 and May 2020", "R0 value": "3.23", "%CI values": "-", "method": "susceptible - infected - recovered - deceased (SIRD) epidemiological model" } } ]
+-----------------------------------------
+index: 96
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 97
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Ethiopia", "date": "-", "R0 value": "1.62", "%CI values": "(95%CI 1.55-1.75)", "method": "simulating SARS-CoV-2 transmission in remote settlements, rural villages, and urban neighborhoods" } } ]
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 98
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Fudan", "date": "-", "R0 value": "3.25", "%CI values": "-", "method": "Wallinga and Lipsitch framework and a novel statistical time delay dynamic system" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "-", "date": "-", "R0 value": "3.25-3.4", "%CI values": "-", "method": "Wallinga and Lipsitch framework { 11 } and a novel statistical time delay dynamic system" } } ]
+-----------------------------------------
+index: 99
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Wuhan", "date": "Dec 2, 2019, and April 18, 2020", "R0 value": "1.45-1.68", "%CI values": "(95% CI 1.2-2.06)", "method": "statistical transmission model" } } ]
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 100
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 101
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+[ { "contribution": { "disease name": "Covid-19", "location": "-", "date": "-", "R0 value": "-", "%CI values": "-", "method": "An age and space structured SIR model" } } ]
+-----------------------------------------
+index: 102
+
+Prediction:
+
+[ { "contribution": { "disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Disease name": "Dis
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 103
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "United States", "date": "21-January-2020 to 21-June-2020", "R0 value": "7.1", "%CI values": "-", "method": "compartmental models via the next-generation matrix" } }, { "contribution": { "disease name": "COVID-19", "location": "Wyoming", "date": "21-January-2020 to 21-June-2020", "R0 value": "2.3", "%CI values": "-", "method": "compartmental models via the next-generation matrix" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "New Jersey, United States", "date": "21-January-2020 to 21-June-2020", "R0 value": "7.1", "%CI values": "-", "method": "Bayesian inference" } }, { "contribution": { "disease name": "COVID-19", "location": "Wyoming, United States", "date": "21-January-2020 to 21-June-2020", "R0 value": "2.3", "%CI values": "-", "method": "Bayesian inference" } } ]
+-----------------------------------------
+index: 104
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 105
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 106
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 107
+
+Prediction:
+
+[ { "contribution": { "disease name": "2009 A/H1N1 influenza", "location": "Lima metropolitan area", "date": "May 1 to December 31, 2009", "R0 value": "1.6-2.2", "%CI values": "-", "method": "-" } }, { "contribution": { "disease name": "2009 A/H1N1 influenza", "location": "rest of Peru", "date": "May 1 to December 31, 2009", "R0 value": "1.3-1.5", "%CI values": "-", "method": "-" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "2009 A/H1N1 Influenza", "location": "Peru, Lima metropolitan area", "date": "May 1 to December 31, 2009", "R0 value": "1.6-2.2", "%CI values": "-", "method": "-" } }, { "contribution": { "disease name": "2009 A/H1N1 Influenza", "location": "Peru, rest of Peru", "date": "May 1 to December 31, 2009", "R0 value": "1.3-1.5", "%CI values": "-", "method": "-" } } ]
+-----------------------------------------
+index: 108
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Wuhan, China", "date": "-", "R0 value": "2.0", "%CI values": "-", "method": "Introduced time series analysis" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Wuhan, China", "date": "February 2020", "R0 value": "4.0 to 2.0", "%CI values": "-", "method": "interrupted time series analysis" } } ]
+-----------------------------------------
+index: 109
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "India", "date": "-", "R0 value": "1.53 to 3.25", "%CI values": "-", "method": "different methodologies and serial intervals" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "Novel Coronavirus (COVID-19)", "location": "India", "date": "-", "R0 value": "1.53 to 3.25", "%CI values": "-", "method": "R packages 'R0' and 'earlyR'" } } ]
+-----------------------------------------
+index: 110
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "England", "date": "13 May (before lockdown was eased further on 1 June)", "R0 value": "0.75", "%CI values": "-", "method": "Bayesian model" } }, { "contribution": { "disease name": "COVID-19", "location": "England", "date": "1 June (after lockdown was eased further on 1 June)", "R0 value": "0.85", "%CI values": "-", "method": "Bayesian model" } }, { "contribution": { "disease name": "COVID-19", "location": "England", "date": "4 July (after lockdown was eased further on 1 June)", "R0 value": "0.95", "%CI values": "-", "method": "Bayesian model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "England", "date": "13 May 2020", "R0 value": "0.75", "%CI values": "-", "method": "Bayesian model" } } ]
+-----------------------------------------
+index: 111
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 112
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 113
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 114
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 115
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Chile", "date": "March-October, 2020", "R0 value": "1.8", "%CI values": "(95% CI: 1.6, 1.9)", "method": "Estimation based on early transmission dynamics" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Chile", "date": "March-October, 2020", "R0 value": "1.8", "%CI values": "(95% CI: 1.6, 1.9)", "method": "short-term forecasts based on the early transmission dynamics of COVID-19" } }, { "contribution": { "disease name": "COVID-19", "location": "Chile, Greater Santiago and other municipalities", "date": "as of November 2(nd), 2020", "R0 value": "0.96", "%CI values": "(95% CI: 0.95, 0.98)", "method": "short-term forecasts based on the early transmission dynamics of COVID-19" } } ]
+-----------------------------------------
+index: 116
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 117
+
+Prediction:
+
+[ { "contribution": { "disease name": "coronavirus disease-19 (COVID-19)", "location": "Benin, Western Africa", "date": "-", "R0 value": "4.4", "%CI values": "(95% confidence interval: 2.0-7.7)", "method": "SARS-CoV-2 genome-based analyses" } } ]
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 118
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Canada", "date": "-", "R0 value": "-", "%CI values": "-", "method": "a combination of neural networks and inverse problem" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Canada", "date": "from 100 to 365 days of the current pandemic in Canada", "R0 value": "closed to unity over a wide range", "%CI values": "-", "method": "second order nonlinear differential equation for the total confirmed cases from a SIR-like model" } } ]
+-----------------------------------------
+index: 119
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 120
+
+Prediction:
+
+[ { "contribution": { "disease name": "coronavirus disease 2019 (COVID-19)", "location": "Wanzhou, China", "date": "-", "R0 value": "1.64", "%CI values": "(95% confidence interval: 1.16-2.40)", "method": "Epidemiological data analysis" } }, { "contribution": { "disease name": "coronavirus disease 2019 (COVID-19)", "location": "Wanzhou, China", "date": "-", "R0 value": "(0.31-0.39)", "%CI values": "-", "method": "Epidemiological data analysis" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "coronavirus disease 2019 (COVID-19)", "location": "Wanzhou, China", "date": "-", "R0 value": "1.64", "%CI values": "95% confidence interval: 1.16-2.40", "method": "-" } } ]
+-----------------------------------------
+index: 121
+
+Prediction:
+
+[ { "contribution": { "disease name": "SARS-CoV-2", "location": "New York State (NYS)", "date": "-", "R0 value": "5.7", "%CI values": "-", "method": "Model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "Severe acute respiratory syndrome-coronavirus 2 (SARS-CoV-2)", "location": "New York State (NYS)", "date": "-", "R0 value": "5.7", "%CI values": "-", "method": "-" } } ]
+-----------------------------------------
+index: 122
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 123
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Shahroud, Iran", "date": "in the early 14 days", "R0 value": "2.7", "%CI values": "(95% confidence interval (CI): 2.1-3.4)", "method": "serial interval distribution and the number of incidence cases" } }, { "contribution": { "disease name": "COVID-19", "location": "Shahroud, Iran", "date": "by the end of day 42", "R0 value": "1.13", "%CI values": "(95% CI 1.03-1.25)", "method": "serial interval distribution and the number of incidence cases" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Shahroud in Northeastern Iran", "date": "early 14 days", "R0 value": "2.7", "%CI values": "95% confidence interval (CI): 2.1-3.4", "method": "the serial interval distribution and the number of incidence cases" } }, { "contribution": { "disease name": "COVID-19", "location": "Shahroud in Northeastern Iran", "date": "by the end of day 42.", "R0 value": "1.13", "%CI values": "95% CI 1.03-1.25", "method": "the serial interval distribution and the number of incidence cases" } } ]
+-----------------------------------------
+index: 124
+
+Prediction:
+
+[ { "contribution": { "disease name": "Covid-19", "location": "Spain", "date": "Mid March (before lockdown)", "R0 value": "2.5-0.1", "%CI values": "(95% CI 2.3-2.7)", "method": "susceptible-infectious-recovered (SIR) model" } }, { "contribution": { "disease name": "Covid-19", "location": "Spain", "date": "Mid March (after lockdown)", "R0 value": "0.81-0.02", "%CI values": "(95% CI 0.77-0.85)", "method": "susceptible-infectious-recovered (SIR) model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "Covid-19", "location": "Spain", "date": "over the whole span", "R0 value": "2.5", "%CI values": "95% CI 2.3-2.7", "method": "(SIR) model" } }, { "contribution": { "disease name": "Covid-19", "location": "Germany", "date": "over the whole span", "R0 value": "-", "%CI values": "-", "method": "(SIR) model" } }, { "contribution": { "disease name": "Covid-19", "location": "Italy", "date": "over the whole span", "R0 value": "-", "%CI values": "-", "method": "(SIR) model" } } ]
+-----------------------------------------
+index: 125
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 126
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "countries around the world", "date": "-", "R0 value": "-", "%CI values": "-", "method": "established epidemiological model augmented with a time-varying disease transmission rate" } } ]
+-----------------------------------------
+index: 127
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 128
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 129
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 130
+
+Prediction:
+
+[ { "contribution": { "disease name": "Dengue", "location": "Singapore", "date": "-", "R0 value": "1.89-2.23", "%CI values": "(95% confidence interval: 1.15-3)", "method": "single-phase Richards model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "Dengue", "location": "Singapore", "date": "-", "R0 value": "1.89-2.23", "%CI values": "(95% confidence interval: 1.15-3.00)", "method": "single-phase Richards model" } } ]
+-----------------------------------------
+index: 131
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 132
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "India", "date": "-", "R0 value": "-", "%CI values": "-", "method": "age-structured SIR model with social contact matrices" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "India", "date": "-", "R0 value": "-", "%CI values": "-", "method": "age-structured SIR model with social contact matrices obtained from surveys and Bayesian imputation" } } ]
+-----------------------------------------
+index: 133
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Zambia", "date": "-", "R0 value": "1.31", "%CI values": "-", "method": "classical Susceptible - Infected - Recovered (SIR) model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Zambia", "date": "for the third wave of the pandemic obtained from the Zambia National Public Health Institute (ZNPHI)", "R0 value": "1.31", "%CI values": "-", "method": "classical Susceptible - Infected - Recovered (SIR) model" } } ]
+-----------------------------------------
+index: 134
+
+Prediction:
+
+[ { "contribution": { "disease name": "2019-nCoV (COVID-19)", "location": "China", "date": "-", "R0 value": "3.56", "%CI values": "95% CI: 2.31-4.81", "method": "Flow-SEHIR model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "China", "date": "Since December 8, 2019", "R0 value": "3.56", "%CI values": "95% CI: 2.31-4.81", "method": "Flow-SEHIR model" } } ]
+-----------------------------------------
+index: 135
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 136
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Bangladesh", "date": "-", "R0 value": "-", "%CI values": "-", "method": "a four compartmental model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "-", "date": "-", "R0 value": "-", "%CI values": "-", "method": "a four compartmental model" } } ]
+-----------------------------------------
+index: 137
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 138
+
+Prediction:
+
+[ { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "Italy, Spain, Germany, and France", "date": "-", "R0 value": "6.35", "%CI values": "(5.97-6.55)", "method": "extended Susceptible-Exposed-Infectious-Removed (SEIR) model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "Spain", "date": "-", "R0 value": "6.25", "%CI values": "(6.77-6.55)", "method": "extended Susceptible-Exposed-Infectious-Removed (SEIR) model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "Germany", "date": "-", "R0 value": "4.03", "%CI values": "(3.84-4.23)", "method": "extended Susceptible-Exposed-Infectious-Removed (SEIR) model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "France", "date": "-", "R0 value": "-", "%CI values": "-", "method": "extended Susceptible-Exposed-Infectious-Removed (SEIR) model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "Italy", "date": "-", "R0 value": "-", "%CI values": "-", "method": "extended Susceptible-Exposed-Infectious-Removed (SEIR) model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "Italy", "date": "-", "R0 value": "-", "%CI values": "-", "method": "extended Susceptible-Exposed-Infectious-Removed (SEIR) model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "Italy", "date": "-", "R0 value": "-", "%CI values": "-", "method": "extended Susceptible-Exposed-Infectious-Removed (SEIR) model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "Italy", "date": "-", "R0 value": "-", "%CI values": "-", "method": "extended Susceptible-Exposed-Infectious-Removed (SEIR) model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "Italy", "date": "-", "R0 value": "-", "%CI values": "-", "method": "extended Susceptible-Exposed-Infectious-Removed (SEIR) model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "Italy", "date": "-", "R0 value": "-", "%CI values": "-", "method": "extended Susceptible-Exposed-Infectious-Removed (SEIR) model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "Italy", "date": "-", "R0 value": "-", "%CI values": "-", "method": "extended Susceptible-Exposed-Infectious-Removed (SEIR) model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "Italy", "date": "-", "R0 value": "-", "%CI values": "-", "method": "extended Susceptible-Exposed-Infectious-Removed (SEIR) model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "Italy", "date": "-", "R0 value": "-", "%CI values": "-", "method": "extended Susceptible-Exposed-Infectious-Removed (SEIR) model" } }, { "contribution": { "disease name": "Coronavirus
+
+Label: 
+
+[ { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "Italy", "date": "-", "R0 value": "3.44", "%CI values": "3.35-3.54", "method": "extended Susceptible-Exposed-Infectious-Removed (SEIR) model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "Spain", "date": "-", "R0 value": "6.25", "%CI values": "5.97-6.55", "method": "extended Susceptible-Exposed-Infectious-Removed (SEIR) model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "Germany", "date": "-", "R0 value": "4.03", "%CI values": "3.84-4.23", "method": "extended Susceptible-Exposed-Infectious-Removed (SEIR) model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "France", "date": "-", "R0 value": "4", "%CI values": "3.82-4.19", "method": "extended Susceptible-Exposed-Infectious-Removed (SEIR) model" } } ]
+-----------------------------------------
+index: 139
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Brazil", "date": "February 26, 2020 to July 2, 2020", "R0 value": "1.3", "%CI values": "-", "method": "iterative method in the Gompertz model" } }, { "contribution": { "disease name": "COVID-19", "location": "Sao Paulo", "date": "February 26, 2020 to July 2, 2020", "R0 value": "1.3", "%CI values": "-", "method": "iterative method in the Gompertz model" } }, { "contribution": { "disease name": "COVID-19", "location": "Rio de Janeiro", "date": "February 26 2020 to July 2, 2020", "R0 value": "1.4", "%CI values": "-", "method": "iterative method in the Gompertz model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Brazil", "date": "February 26, 2020, to July 2, 2020", "R0 value": "1.3", "%CI values": "-", "method": "iterative method in the Gompertz model" } }, { "contribution": { "disease name": "COVID-19", "location": "Sao Paulo", "date": "February 26, 2020, to July 2, 2020", "R0 value": "1.3", "%CI values": "-", "method": "iterative method in the Gompertz model" } }, { "contribution": { "disease name": "COVID-19", "location": "Rio de Janeiro", "date": "February 26, 2020, to July 2, 2020", "R0 value": "1.4", "%CI values": "-", "method": "iterative method in the Gompertz model" } } ]
+-----------------------------------------
+index: 140
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 141
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Morocco", "date": "March, 21", "R0 value": "2.9949", "%CI values": "-", "method": "Susceptible-Asymptomatic-Infectious deterministic model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Morocco", "date": "-", "R0 value": "2.9949", "%CI values": "-", "method": "Susceptible-Asymptomatic-Infectious deterministic model" } } ]
+-----------------------------------------
+index: 142
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 143
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 144
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "England", "date": "8 February to 1 March 2022", "R0 value": "0.94", "%CI values": "(0.91-0.96)", "method": "REal-time Assessment of Community Transmission-1 (REACT-1) study" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "SARS-CoV-2", "location": "England", "date": "8 February to 1 March 2022", "R0 value": "0.94 (0.91-0.96)", "%CI values": "-", "method": "-" } } ]
+-----------------------------------------
+index: 145
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Lombardy, Italy", "date": "-", "R0 value": "-", "%CI values": "-", "method": "modified compartmental Susceptible/ Exposed/ Infectious Asymptomatic/ Infected Symptomatic/ Recovered/ Dead (SEIIRD) model with two compartments of infectious persons: one modelling the cases in the population that are asymptomatic or experience very mild symptoms and another modelling the infected cases with mild to severe symptoms" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Lombardy, Italy", "date": "March 20 and March 21, 2020", "R0 value": "4.53", "%CI values": "min-max range: 4.40- 4.65", "method": "modified compartmental Susceptible/ Exposed/ Infectious Asymptomatic/ Infected Symptomatic/ Recovered/ Dead (SEIIRD) model" } } ]
+-----------------------------------------
+index: 146
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 147
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Kuwait", "date": "until 19 April 2020", "R0 value": "2.2", "%CI values": "-", "method": "Deterministic and stochastic modeling" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Kuwait", "date": "until 19 April 2020 and before the repatriation plan", "R0 value": "2.2", "%CI values": "-", "method": "Deterministic and stochastic modeling" } } ]
+-----------------------------------------
+index: 148
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 149
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Wuhan", "date": "January 24, 2020 to February 13, 2020", "R0 value": "2.7", "%CI values": "-", "method": "(SEIR) model" } }, { "contribution": { "disease name": "COVID-19", "location": "other cities", "date": "January 24, 2020 to February 13, 2020", "R0 value": "1.8 to 2.4", "%CI values": "-", "method": "(SEIR) model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "new coronavirus disease COVID-19", "location": "Wuhan", "date": "January 24, 2020 to February 13, 2020", "R0 value": "2.7", "%CI values": "-", "method": "equation derived from the Susceptible-Exposed-Infectious-Recovered (SEIR) model" } }, { "contribution": { "disease name": "new coronavirus disease COVID-19", "location": "other cities,china", "date": "January 24, 2020 to February 13, 2020", "R0 value": "ranging from 1.8 to 2.4", "%CI values": "-", "method": "equation derived from the Susceptible-Exposed-Infectious-Recovered (SEIR) model" } } ]
+-----------------------------------------
+index: 150
+
+Prediction:
+
+[ { "contribution": { "disease name": "SARS-CoV-2", "location": "10 countries and one cruise ship", "date": "-", "R0 value": "between 1.4 and 2.8", "%CI values": "-", "method": "phylodynamic analyses of genomic data" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "SARS-CoV-2", "location": "10 countries and one cruise ship", "date": "-", "R0 value": "1.4 and 2.8", "%CI values": "-", "method": "phylodynamic analyses of genomic data" } } ]
+-----------------------------------------
+index: 151
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 152
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Rohingya refugee camps of Bangladesh", "date": "-", "R0 value": "0.7563", "%CI values": "-", "method": "modified Susceptible-Exposed-Infectious Recovered (SEIR) transmission model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Rohingya Refugee Camp, Bangladesh", "date": "-", "R0 value": "0.7563", "%CI values": "-", "method": "modified Susceptible-Exposed-Infectious Recovered (SEIR) transmission model" } } ]
+-----------------------------------------
+index: 153
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "UK", "date": "Late January 2020", "R0 value": "1.85", "%CI values": "-", "method": "prospective case ascertained study design based on the World Health Organization FFX protocol" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "United Kingdom", "date": "Late January 2020", "R0 value": "1.85 and a household reproduction number of 2.33", "%CI values": "-", "method": "prospective case ascertained study design based on the World Health Organization FFX protocol" } } ]
+-----------------------------------------
+index: 154
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 155
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 156
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Wuhan, China", "date": "January and February 2020", "R0 value": "2u00b745", "%CI values": "(95% CI: 1u00b767)", "method": "combined SEIR framework model with data on cases of COVID-19 in China and International cases that originated in Wuhan" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "within and outside of Wuhan, China", "date": "January and February 2020 (one week before travel restrictions on Jan 23rd)", "R0 value": "2u00b745", "%CI values": "(95% CI: 1u00b716-4u00b787)", "method": "SEIR framework model" } }, { "contribution": { "disease name": "COVID-19", "location": "within and outside of Wuhan, China", "date": "January and February 2020 (one week after travel restrictions on Jan 23rd)", "R0 value": "1.05", "%CI values": "(0u00b742-2u00b740)", "method": "SEIR framework model" } } ]
+-----------------------------------------
+index: 157
+
+Prediction:
+
+[ { "contribution": { "disease name": "MRSA", "location": "ICU", "date": "-", "R0 value": "0.337", "%CI values": "-", "method": "Next Generation Matrix method" } }, { "contribution": { "disease name": "MRSA", "location": "ICU", "date": "-", "R0 value": "(0.278)", "%CI values": "-", "method": "Next Generation Matrix method" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "methicillin-resistant Staphylococcus aureus (MRSA)", "location": "Intensive Care Unit (ICU)", "date": "-", "R0 value": "0.337", "%CI values": "-", "method": "Next Generation Matrix method (single-staff model)" } }, { "contribution": { "disease name": "methicillin-resistant Staphylococcus aureus (MRSA)", "location": "Intensive Care Unit (ICU)", "date": "-", "R0 value": "0.278", "%CI values": "-", "method": "Next Generation Matrix method (other two models)" } } ]
+-----------------------------------------
+index: 158
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 159
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 160
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 161
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 162
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 163
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 164
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Iran", "date": "19 Feb to 15 March, 2020", "R0 value": "2.11", "%CI values": "(95% CI, 1.87-2.55)", "method": "mathematical model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Iran", "date": "19 Feb-15 March, 2020", "R0 value": "2.11", "%CI values": "(95% CI, 1.87-2.50)", "method": "mathematical model" } } ]
+-----------------------------------------
+index: 165
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Taiwan", "date": "253 days between April and December 2020", "R0 value": "voluntary population-based interventions, if used alone, were estimated to have reduced the reproduction number to 1.30", "%CI values": "95% CrI, 1.03-1.58", "method": "stochastic branching process model" } } ]
+-----------------------------------------
+index: 166
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+[ { "contribution": { "disease name": "SARS-CoV-2", "location": "Ohio prison", "date": "-", "R0 value": "14 and 3", "%CI values": "-", "method": "-" } } ]
+-----------------------------------------
+index: 167
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Kuwait", "date": "-", "R0 value": "-", "%CI values": "-", "method": "maximum likelihood framework" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Kuwait", "date": "-", "R0 value": "-", "%CI values": "-", "method": "maximum likelihood framework" } } ]
+-----------------------------------------
+index: 168
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 169
+
+Prediction:
+
+[ { "contribution": { "disease name": "Severe Acute Respiratory Syndrome Infection", "location": "Greece", "date": "-", "R0 value": "2.38", "%CI values": "(95% CI 2.01-2.80)", "method": "susceptible-exposed-infectious-recovered model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "severe acute respiratory syndrome coronavirus 2", "location": "Greece", "date": "Before measures were implemented", "R0 value": "2.38", "%CI values": "(95% CI 2.01-2.80)", "method": "susceptible-exposed-infectious-recovered model" } } ]
+-----------------------------------------
+index: 170
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 171
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 172
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 173
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 174
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 175
+
+Prediction:
+
+[ { "contribution": { "disease name": "new coronavirus disease COVID-19", "location": "Wuhan, Hubei Province, China", "date": "January 24, 2020 to February 13, 2020", "R0 value": "2.701", "%CI values": "-", "method": "(SEIR) model" } }, { "contribution": { "disease name": "new coronavirus disease COVID-19", "location": "other cities", "date": "January 24, 2020 to February 13, 2020", "R0 value": "1.7762 to 2.3700", "%CI values": "-", "method": "(SEIR) model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "new coronavirus disease COVID-19", "location": "Wuhan", "date": "from January 24, 2020 to February 13, 2020", "R0 value": "2.7011", "%CI values": "-", "method": "Susceptibleu00e2u20acu201cExposedu00e2u20acu201cInfectiousu00e2u20acu201cRecovered (SEIR) model" } }, { "contribution": { "disease name": "new coronavirus disease COVID-19", "location": "other cities,china", "date": "from January 24, 2020 to February 13, 2020", "R0 value": "ranging from 1.7762 to 2.3700", "%CI values": "-", "method": "Susceptibleu00e2u20acu201cExposedu00e2u20acu201cInfectiousu00e2u20acu201cRecovered (SEIR) model" } } ]
+-----------------------------------------
+index: 176
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+[ { "contribution": { "disease name": "Covid-19", "location": "ten countries", "date": "anuary 22, 2020 - April 18, 2020", "R0 value": "-", "%CI values": "-", "method": "Susceptible-Infected-Removed (SIR) model" } } ]
+-----------------------------------------
+index: 177
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 178
+
+Prediction:
+
+[ { "contribution": { "disease name": "SARS", "location": "Hong Kong", "date": "-", "R0 value": "1.2", "%CI values": "-", "method": "simple mathematical model" } }, { "contribution": { "disease name": "SARS", "location": "Toronto (Canada)", "date": "-", "R0 value": "1.32", "%CI values": "-", "method": "simple mathematical model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "SARS", "location": "Hong Kong", "date": "-", "R0 value": "1.2", "%CI values": "-", "method": "simple mathematical model" } }, { "contribution": { "disease name": "SARS", "location": "Toronto (Canada)", "date": "-", "R0 value": "1.32", "%CI values": "-", "method": "simple mathematical model" } } ]
+-----------------------------------------
+index: 179
+
+Prediction:
+
+[ { "contribution": { "disease name": "SARS-CoV-2", "location": "Israel", "date": "-", "R0 value": "2.5", "%CI values": "-", "method": "phylodynamic analysis" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "SARS-CoV-2", "location": "Israel", "date": "-", "R0 value": "initially around 2.5", "%CI values": "-", "method": "phylodynamic analysis" } } ]
+-----------------------------------------
+index: 180
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 181
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 182
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 183
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 184
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Africa", "date": "-", "R0 value": "1.98 (Sudan) and 9.66 (Mauritius), with a median of 3.67", "%CI values": "-", "method": "simple SEIR model and a Bayesian inference framework" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Sudan", "date": "-", "R0 value": "1.98", "%CI values": "-", "method": "SEIR model and a Bayesian inference framework" } }, { "contribution": { "disease name": "COVID-19", "location": "Mauritius", "date": "-", "R0 value": "9.66", "%CI values": "-", "method": "SEIR model and a Bayesian inference framework" } }, { "contribution": { "disease name": "COVID-19", "location": "Africa", "date": "-", "R0 value": "a median of 3.67", "%CI values": "90% CrI: 3.31 - 4.12", "method": "SEIR model and a Bayesian inference framework" } } ]
+-----------------------------------------
+index: 185
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 186
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Bangladesh", "date": "March 8 to May 11, 2020", "R0 value": "1.84", "%CI values": "[95% CI: 1.82-1.86], [95% CI: 1.81-1.84", (with the adjusted reporting rate)", "method": "estimated intrinsic growth rate (?3)" } }, { "contribution": { "disease name": "COVID-19", "location": "Bangladesh", "date": "March 8 to May 11, 2020", "R0 value": "1.63", "%CI values": "[95% CI: 1.62-1.65", (with the adjusted reporting rate)", "method": "estimated intrinsic growth rate (?3)" } }, { "contribution": { "disease name": "COVID-19", "location": "Bangladesh", "date": "March 8 to May 11, 2020", "R0 value": "1.62", "%CI values": "[95% CI: 1.61-1.64", "method": "estimated intrinsic growth rate (?3)" } }, { "contribution": { "disease name": "COVID-19", "location": "Bangladesh", "date": "March 8 to May 11, 2020", "R0 value": "1.71", "%CI values": "[95% CI: 1.70-1.73]", "method": "estimated intrinsic growth rate (?3)" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "novel coronavirus disease (COVID-19)", "location": "Bangladesh", "date": "March 8 to May 11, 2020", "R0 value": "1.82", "%CI values": "95% CI: 1.81-1.84", "method": "exponential growth model" } } ]
+-----------------------------------------
+index: 187
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "China", "date": "-", "R0 value": "-", "%CI values": "-", "method": "Networked meta-population model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "China", "date": "-", "R0 value": "-", "%CI values": "-", "method": "networked meta-population model" } } ]
+-----------------------------------------
+index: 188
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 189
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "India", "date": "June and July", "R0 value": "1.73 to 1.08", "%CI values": "-", "method": "incidence and Optimum function in desolve package to the data of cumulative daily new confirmed cases for robustly estimating the reproduction number in the R software" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "Covid-19", "location": "India", "date": "June and July", "R0 value": "1.73 to 1.08", "%CI values": "-", "method": "Novel method implemented in the incidence and Optimum function in desolve package to the data of cumulative daily new confirmed cases for robustly estimating the reproduction number in the R software." } } ]
+-----------------------------------------
+index: 190
+
+Prediction:
+
+[ { "contribution": { "disease name": "SARS-CoV-2 B.1.617.2 (Delta) variant", "location": "Guangzhou, China", "date": "Late May", "R0 value": "3.60", "%CI values": "(95% confidence interval: 2.50-5.35)", "method": "-" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "SARS-CoV-2 B.1.617.2 (Delta) variant", "location": "Guangzhou, China", "date": "late May", "R0 value": "3.6", "%CI values": "95% confidence interval: 2.50-5.30", "method": "Transmission characteristics of Delta variant were analysed for 153 confirmed cases and two complete transmission chains with seven generations were fully presented." } } ]
+-----------------------------------------
+index: 191
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+[ { "contribution": { "disease name": "H2N2 viruses", "location": "Rochester, New York", "date": "-", "R0 value": "1.2", "%CI values": "-", "method": "Hemagglutinin inhibition (HAI) assays against historical human and recent avian influenza A(H2N2) viruses" } }, { "contribution": { "disease name": "H2N2 viruses", "location": "Hong Kong, China", "date": "-", "R0 value": "1.2", "%CI values": "-", "method": "Hemagglutinin inhibition (HAI) assays against historical human and recent avian influenza A(H2N2) viruses" } } ]
+-----------------------------------------
+index: 192
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 193
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Fars Province, Iran", "date": "February 18th to September 30th, 2020", "R0 value": "2.8", "%CI values": "-", "method": "cross-sectional study" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "Fars Province, Iran", "date": "February 18th to September 30th, 2020", "R0 value": "2.8", "%CI values": "-", "method": "Cross-sectional study" } } ]
+-----------------------------------------
+index: 194
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 195
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 196
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Libya", "date": "-", "R0 value": "6.7", "%CI values": "-", "method": "SEIR model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Libya", "date": "May 5th", "R0 value": "7.6", "%CI values": "-", "method": "SEIR model" } } ]
+-----------------------------------------
+index: 197
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "China", "date": "-", "R0 value": "5.6", "%CI values": "-", "method": "rigorous epidemiological analysis" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "-", "date": "-", "R0 value": "5.6", "%CI values": "-", "method": "rigorous epidemiological analysis" } } ]
+-----------------------------------------
+index: 198
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 199
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "12 diverse world regions", "date": "February and December of 2020.", "R0 value": "-", "%CI values": "-", "method": "-" } } ]
+-----------------------------------------
+index: 200
+
+Prediction:
+
+[ { "contribution": { "disease name": "HIV-1", "location": "-", "date": "-", "R0 value": "2.30", "%CI values": "-", "method": "reduce quasi-steady state (RQS) model and the piece-wise regression (PWR) model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "HIV-1", "location": "-", "date": "-", "R0 value": "2.30", "%CI values": "-", "method": "Reduced quasi-steady state (RQS) model" } }, { "contribution": { "disease name": "HIV-1", "location": "-", "date": "-", "R0 value": "2.38", "%CI values": "-", "method": "the piece-wise regression (PWR) model" } } ]
+-----------------------------------------
+index: 201
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+[ { "contribution": { "disease name": "2009 A/H1N1 influenza", "location": "Shaanxi Province of China", "date": "-", "R0 value": "-", "%CI values": "-", "method": "compartmental model by including a new compartment of the intensity of the media reports" } } ]
+-----------------------------------------
+index: 202
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Germany", "date": "-", "R0 value": "between 2.4 and 3.4", "%CI values": "-", "method": "comprehensible nonparametric methods including time-delay correlation analyses" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "SARS-CoV-2/COVID-19", "location": "Germany", "date": "-", "R0 value": "2.4 and 3.4", "%CI values": "-", "method": "comprehensible nonparametric methods including time-delay correlation analyses" } } ]
+-----------------------------------------
+index: 203
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Gansu", "date": "-", "R0 value": "2.61 in imported case stage to 0.66 in indigenous case stage", "%CI values": "-", "method": "Epidemiological investigation" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Gansu province", "date": "As of 25 February 2020", "R0 value": "decreased from 2.61 in imported case stage to 0.66 in indigenous case stage", "%CI values": "-", "method": "Epidemiological investigation" } } ]
+-----------------------------------------
+index: 204
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 205
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 206
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 207
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 208
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "China (excluding Hubei province)", "date": "January 30", "R0 value": "2.5", "%CI values": "-", "method": "mathematical model based on epidemiology of COVID-19" } }, { "contribution": { "disease name": "COVID-19", "location": "Hubei province", "date": "January 30", "R0 value": "2.9", "%CI values": "-", "method": "mathematical model based on epidemiology of COVID-19" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "Corona Virus Disease 2019 (COVID-19)", "location": "China (excluding Hubei province)", "date": "January 30", "R0 value": "2.5", "%CI values": "-", "method": "mathematical model based on epidemiology of COVID-19, incorporating the isolation of healthy people, confirmed cases and close contacts" } }, { "contribution": { "disease name": "Corona Virus Disease 2019 (COVID-19)", "location": "Hubei province", "date": "January 30", "R0 value": "2.9", "%CI values": "-", "method": "mathematical model based on epidemiology of COVID-19, incorporating the isolation of healthy people, confirmed cases and close contacts" } } ]
+-----------------------------------------
+index: 209
+
+Prediction:
+
+[ { "contribution": { "disease name": "Chinkungunya", "location": "Chad", "date": "-", "R0 value": "1.8511", "%CI values": "-", "method": "Non-linear least-square method" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "Chikungunya", "location": "Chad", "date": "-", "R0 value": "1.8519", "%CI values": "-", "method": "non-linear least-square method" } } ]
+-----------------------------------------
+index: 210
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Chongqing", "date": "-", "R0 value": "3.8", "%CI values": "-", "method": "retrospective survey" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Chongqing", "date": "-", "R0 value": "3.8", "%CI values": "-", "method": "Field and telephone interviews" } } ]
+-----------------------------------------
+index: 211
+
+Prediction:
+
+[ { "contribution": { "disease name": "SARS-CoV-2", "location": "Japan", "date": "January 14 through July 31, 2020", "R0 value": "0.4415", "%CI values": "(95% CI, 0.0138- 0.0691)", "method": "-" } }, { "contribution": { "disease name": "SARS-CoV-2", "location": "Japan", "date": "January 14 through July 31, 2020", "R0 value": "1.11", "%CI values": "(95% CI, 0.9171-1.326)", "method": "-" } }, { "contribution": { "disease name": "SARS-CoV-2", "location": "Japan", "date": "January 14 through July 31, 2020", "R0 value": "0.492", "%CI values": "(95% CI, 0.5236-0.5550)", "method": "-" } }, { "contribution": { "disease name": "SARS-CoV-2", "location": "Japan", "date": "January 14 through July 31, 2020", "R0 value": "0.3264", "%CI values": "(95% CI, 0.3059-0.3474)", "method": "-" } }, { "contribution": { "disease name": "SARS-CoV-2", "location": "Japan", "date": "January 14 through July 31, 2020", "R0 value": "0.4391", "%CI values": "(95% CI, 0.3757-0.4229)", "method": "-" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "SARS-CoV-2", "location": "Japan", "date": "during January 14 through July 31, 2020", "R0 value": "underage infection sources directed to underage, adult, and elderly people were estimated respectively as 0.0415 (95% CI, 0.0138- 0.0691), 1.11 (95% CI, 0.9171-1.3226), and 0.2811 (95% CI, 0.2074-0.3687)", "%CI values": "-", "method": "-" } }, { "contribution": { "disease name": "SARS-CoV-2", "location": "Japan", "date": "during January 14 through July 31, 2020", "R0 value": "adult infection source directed to underage, adult, and elderly people were estimated respectively as 0.0140 (95% CI, 0.0120-0.0162), 0.5392 (95% CI, 0.5236-0.5550), and 0.1135 (95% CI, 0.1074-0.1197)", "%CI values": "-", "method": "-" } }, { "contribution": { "disease name": "SARS-CoV-2", "location": "Japan", "date": "during January 14 through July 31, 2020", "R0 value": "elderly infection source directed to underage, adult, and elderly people were estimated as 0.065 (95% CI, 0.0039-0.0091), 0.3264 (95% CI, 0.3059-0.3474), and 0.3991 (95% CI, 0.3757-0.4229)", "%CI values": "-", "method": "-" } } ]
+-----------------------------------------
+index: 212
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+[ { "contribution": { "disease name": "severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)", "location": "U.S.", "date": "-", "R0 value": "2.5", "%CI values": "-", "method": "computational model of the U.S. simulating the spread of SARS-CoV-2 and the potential clinical and economic impact of reducing the infectious period duration" } } ]
+-----------------------------------------
+index: 213
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 214
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 215
+
+Prediction:
+
+[ { "contribution": { "disease name": "SARS-CoV-2", "location": "Iran", "date": "-", "R0 value": "2.58", "%CI values": "(95%CI;12.7-27.3)", "method": "SARS-CoV-2" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "novel coronavirus", "location": "iranian community", "date": "-", "R0 value": "2.58", "%CI values": "-", "method": "SPSS V21.0 and R software" } } ]
+-----------------------------------------
+index: 216
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 217
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "New Jersey", "date": "21-January-2020 to 21-June-2020", "R0 value": "7.1", "%CI values": "-", "method": "compartmental models via the next-generation matrix" } }, { "contribution": { "disease name": "COVID-19", "location": "Wyoming", "date": "21-January-2020 to 21-June-2020", "R0 value": "2.3", "%CI values": "-", "method": "compartmental models via the next-generation matrix" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "New Jersey", "date": "21-January-2020 to 21-June-2020", "R0 value": "7.1", "%CI values": "-", "method": "Bayesian inference" } }, { "contribution": { "disease name": "COVID-19", "location": "Wyoming", "date": "21-January-2020 to 21-June-2020", "R0 value": "2.3", "%CI values": "-", "method": "Bayesian inference" } } ]
+-----------------------------------------
+index: 218
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 219
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 220
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 221
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 222
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 223
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 224
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 225
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 226
+
+Prediction:
+
+[ { "contribution": { "disease name": "coronavirus disease 2019 (COVID-19)", "location": "India", "date": "30 February to 14 April 2020", "R0 value": "3.3", "%CI values": "(95%CI, 3.1 to 3.5)", "method": "polynomial regression" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "coronavirus disease 2019 (COVID-19)", "location": "India", "date": "from 30 February to 14 April 2020", "R0 value": "3.3", "%CI values": "95%CI, 3.1 to 3.5", "method": "epidemic compartmental model SEIR" } } ]
+-----------------------------------------
+index: 227
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 228
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 229
+
+Prediction:
+
+[ { "contribution": { "disease name": "MERS-CoV", "location": "South Korea", "date": "-", "R0 value": "-", "%CI values": "-", "method": "mathematical model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "MERS", "location": "South Korea", "date": "-", "R0 value": "-", "%CI values": "-", "method": "mathematical mode" } } ]
+-----------------------------------------
+index: 230
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Brunei", "date": "March 9 to April 5, 2020", "R0 value": "between 3.9 and 6.0", "%CI values": "-", "method": "Epidemiological and clinical information" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Brunei", "date": "from March 9 to April 5, 2020", "R0 value": "between 3.9 and 6.0", "%CI values": "-", "method": "Time-varying R" } } ]
+-----------------------------------------
+index: 231
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 232
+
+Prediction:
+
+[ { "contribution": { "disease name": "2009 A/H1N1 influenza", "location": "Chile", "date": "01-May to 31-December, 2009", "R0 value": "1.6-2.0", "%CI values": "-", "method": "maximum likelihood methods" } }, { "contribution": { "disease name": "2009 A/H1N1 influenza", "location": "Chile", "date": "01-May to 31-December, 2009", "R0 value": "1.3-1.5", "%CI values": "-", "method": "maximum likelihood methods" } }, { "contribution": { "disease name": "2009 A/H1N1 influenza", "location": "Chile", "date": "01-May to 31-December, 2009", "R0 value": "1.2-1.3", "%CI values": "-", "method": "maximum likelihood methods" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "A/H1N1 influenza", "location": "Chile, southern region", "date": "01-May to 31-December, 2009", "R0 value": "1.6-2.0", "%CI values": "-", "method": "growth rate of the exponential pandemic phase by date of symptoms onset" } }, { "contribution": { "disease name": "A/H1N1 influenza", "location": "Chile, central region", "date": "01-May to 31-December, 2009", "R0 value": "1.3-1.5", "%CI values": "-", "method": "growth rate of the exponential pandemic phase by date of symptoms onset" } }, { "contribution": { "disease name": "A/H1N1 influenza", "location": "Chile, northern regions", "date": "01-May to 31-December, 2009", "R0 value": "1.2-1.3", "%CI values": "-", "method": "growth rate of the exponential pandemic phase by date of symptoms onset" } } ]
+-----------------------------------------
+index: 233
+
+Prediction:
+
+[ { "contribution": { "disease name": "seasonal influenza", "location": "England", "date": "For the first 12 weeks of 2018", "R0 value": "-", "%CI values": "-", "method": "strategized primary care model using daily, region-specific, counts and virological swab positivity of influenza-like illness consultations in general practice (GP), a strain-specific (SS) model using weekly, national GP ILI and virological data, an intensive care model (ICU) using reports of ICU influenza admissions; and a synthesis model" } } ]
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 234
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 235
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Israel", "date": "-", "R0 value": "2.2", "%CI values": "-", "method": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "Israel", "date": "-", "R0 value": "-", "%CI values": "-", "method": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "United States", "date": "-", "R0 value": "-", "%CI values": "-", "method": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "United Kingdom", "date": "-", "R0 value": "-", "%CI values": "-", "method": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "Serbia", "date": "-", "R0 value": "-", "%CI values": "-", "method": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "United Kingdom", "date": "-", "R0 value": "-", "%CI values": "-", "method": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "United Kingdom", "date": "-", "R0 value": "-", "%CI values": "-", "method": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "United Kingdom", "date": "-", "R0 value": "-", "%CI values": "-", "method": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "United Kingdom", "date": "-", "R0 value": "-", "%CI values": "-", "method": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "United Kingdom", "date": "-", "R0 value": "-", "%CI values": "-", "method": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "United Kingdom", "date": "-", "R0 value": "-", "%CI values": "-", "method": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "United Kingdom", "date": "-", "R0 value": "-", "%CI values": "-", "method": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "United Kingdom", "date": "-", "R0 value": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "United Kingdom", "date": "-", "R0 value": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "United Kingdom", "date": "-", "R0 value": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "United Kingdom", "date": "-", "R0 value": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "-" } }, { "contribution": { "disease name": "COVID-19", "
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Israel", "date": "2021", "R0 value": "2.2", "%CI values": "-", "method": "-" } } ]
+-----------------------------------------
+index: 236
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "China", "date": "-", "R0 value": "5.78", "%CI values": "(95%CI: 5.71-5.89)", "method": "Markov Chain Monte Carlo algorithm" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "novel coronavirus disease 2019 (COVID-19)", "location": "Wuhan, China", "date": "-", "R0 value": "5.78", "%CI values": "95%CI: 5.71-5.89", "method": "Markov Chain Monte Carlo algorithm" } } ]
+-----------------------------------------
+index: 237
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Lombardy Region, Italy", "date": "-", "R0 value": "3.1", "%CI values": "(95% CI, 2.9 to 3.2)", "method": "-" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Lombardy, Italy", "date": "-", "R0 value": "3.1", "%CI values": "(95% CI, 2.9 to 3.2)", "method": "-" } } ]
+-----------------------------------------
+index: 238
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "China", "date": "2019-2020", "R0 value": "0.24", "%CI values": "(95% CrI: 0.01-1.38)", "method": "quantitative modeling analyses" } }, { "contribution": { "disease name": "COVID-19", "location": "China", "date": "2019-2020", "R0 value": "2.37", "%CI values": "(95% CrI: 2.08-2.71)", "method": "quantitative modeling analyses" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "China", "date": "2019-2020", "R0 value": "0.24 for market-to-human transmission", "%CI values": "(95% CrI: 0.01-1.38)", "method": "quantitative modeling analyses" } }, { "contribution": { "disease name": "COVID-19", "location": "China", "date": "2019-2020", "R0 value": "2.37 for human-to-human transmission", "%CI values": "(95% CrI: 2.08-2.71)", "method": "quantitative modeling analyses" } } ]
+-----------------------------------------
+index: 239
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 240
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "South East Asia", "date": "-", "R0 value": "-", "%CI values": "-", "method": "compartmental model called SEIR (Susceptible, Exposed, Infected, Recovered)" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "a region in South East Asia", "date": "-", "R0 value": "3", "%CI values": "-", "method": "compartment model (SEIR)" } } ]
+-----------------------------------------
+index: 241
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 242
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "United States", "date": "-", "R0 value": "0.48", "%CI values": "-", "method": "model for studying the transmission dynamics of two of these variants (Delta and Omicron) in the presence of vaccination, treatment of individuals with clinical symptoms of the disease and the use of face masks in the community" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19, Delta variant", "location": "United States", "date": "End of November 2021 to date", "R0 value": "0.28", "%CI values": "-", "method": "Model fitted using daily case data for the COVID-19 pandemic in the United States" } }, { "contribution": { "disease name": "COVID-19, Omicron", "location": "United States", "date": "End of November 2021 to date", "R0 value": "0.96", "%CI values": "-", "method": "Model fitted using daily case data for the COVID-19 pandemic in the United States" } } ]
+-----------------------------------------
+index: 243
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 244
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Weifang, People's Republic of China", "date": "-", "R0 value": "3.4", "%CI values": "(95% highest posterior density interval: 2.1-5.2)", "method": "Bayesian model-based phylodynamic methods" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Weifang, People's Republic of China", "date": "4 February", "R0 value": "3.4", "%CI values": "95% highest posterior density interval: 2.1-5.2", "method": "Bayesian model-based phylodynamic methods" } } ]
+-----------------------------------------
+index: 245
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Tokyo", "date": "-", "R0 value": "-", "%CI values": "-", "method": "Susceptible-Infectious-Recovered (SIR) model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "coronavirus disease 2019 (COVID-19)", "location": "Tokyo", "date": "-", "R0 value": "-", "%CI values": "-", "method": "Susceptible-Infectious-Recovered (SIR) model" } } ]
+-----------------------------------------
+index: 246
+
+Prediction:
+
+[ { "contribution": { "disease name": "Coronavirus disease 2019 (covid-19)", "location": "Sao Paulo State (Brazil)", "date": "-", "R0 value": "9.24", "%CI values": "-", "method": "mathematical model considering young and elder subpopulations" } }, { "contribution": { "disease name": "Coronavirus disease 2019 (covid-19)", "location": "Spain", "date": "-", "R0 value": "8", "%CI values": "-", "method": "mathematical model considering young and elder subpopulations" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "covid-19", "location": "Sao Paulo State (Brazil)", "date": "-", "R0 value": "9.24", "%CI values": "-", "method": "mathematical model considering young and elder subpopulation" } }, { "contribution": { "disease name": "covid-19", "location": "Spain", "date": "-", "R0 value": "8", "%CI values": "-", "method": "mathematical model considering young and elder subpopulation" } } ]
+-----------------------------------------
+index: 247
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "China", "date": "-", "R0 value": "2.1", "%CI values": "(95% UI = 1.8-2.4)", "method": "age-stratified mathematical model" } }, { "contribution": { "disease name": "COVID-19", "location": "China", "date": "-", "R0 value": "0.66", "%CI values": "(95% UI = 0.05-0.07)", "method": "age-stratified mathematical model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "SARS-CoV-2", "location": "China", "date": "-", "R0 value": "2.1", "%CI values": "(95% UI = 1.8-2.4)", "method": "age-stratified mathematical model" } }, { "contribution": { "disease name": "SARS-CoV-2", "location": "China", "date": "following interventions' onset", "R0 value": "0.06", "%CI values": "(95% UI = 0.05-0.07)", "method": "age-stratified mathematical model" } } ]
+-----------------------------------------
+index: 248
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Nigeria", "date": "-", "R0 value": "R_01", "%CI values": "-", "method": "community-based transmission model" } } ]
+-----------------------------------------
+index: 249
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 250
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "South Kalimantan Province", "date": "-", "R0 value": "-", "%CI values": "-", "method": "SIR Model" } } ]
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 251
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "India", "date": "30th January 2020 to 30th March 2020", "R0 value": "2.02", "%CI values": "-", "method": "SEIR model and Regression model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "India", "date": "30th January 2020 to 30th March 2020", "R0 value": "2.02", "%CI values": "-", "method": "SEIR model and Regression model" } } ]
+-----------------------------------------
+index: 252
+
+Prediction:
+
+[ { "contribution": { "disease name": "coronavirus disease 2019 (COVID-19)", "location": "Wuhan (China)", "date": "between 1 January and 8 March 2020", "R0 value": "3.54", "%CI values": "(95% credible interval 3.40-3.67)", "method": "a modelling approach" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Wuhan (China)", "date": "1 January and 8 March 2020", "R0 value": "3.54", "%CI values": "(95% credible interval 3.40-3.67)", "method": "modelling approach" } }, { "contribution": { "disease name": "COVID-19", "location": "Wuhan (China)", "date": "as of 8 March 2022", "R0 value": "0.28", "%CI values": "(95% credible interval 0.23-0.33)", "method": "modelling approach" } } ]
+-----------------------------------------
+index: 253
+
+Prediction:
+
+[ { "contribution": { "disease name": "Coronavirus Disease 2019 (covid-19)", "location": "Sao Paulo State (Brazil)", "date": "-", "R0 value": "1.5 to 3.0", "%CI values": "-", "method": "SIR model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (covid-19)", "location": "Spain", "date": "-", "R0 value": "9.24", "%CI values": "-", "method": "SIR model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (covid-19)", "location": "Spain", "date": "-", "R0 value": "8.0", "%CI values": "-", "method": "SIR model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (covid-19)", "location": "Spain", "date": "-", "R0 value": "-", "%CI values": "-", "method": "SIR model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "Sao Paulo State (Brazil)", "date": "-", "R0 value": "9.24", "%CI values": "-", "method": "more elaborate model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "Spain", "date": "-", "R0 value": "8.0", "%CI values": "-", "method": "more elaborate model" } }, { "contribution": { "disease name": "Coronavirus Disease 2019 (COVID-19)", "location": "-", "date": "-", "R0 value": "1.5 to 3.0", "%CI values": "-", "method": "Simple mathematical model, the SIR model" } } ]
+-----------------------------------------
+index: 254
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 255
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Singapore and Tianjin, China", "date": "Jan.19-Feb.26", "R0 value": "1.97", "%CI values": "1.45, 2.48)", "method": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "Tianjin, China", "date": "Jan.21-Feb.27", "R0 value": "1.87", "%CI values": "1.65, 2.09)", "method": "-" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Singapore", "date": "Jan.19-Feb.26", "R0 value": "1.97 (1.45, 2.48)", "%CI values": "-", "method": "-" } }, { "contribution": { "disease name": "COVID-19", "location": "Tianjin, China", "date": "Jan.21-Feb.27", "R0 value": "1.87 (1.65,2.09)", "%CI values": "-", "method": "-" } } ]
+-----------------------------------------
+index: 256
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 257
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 258
+
+Prediction:
+
+[ { "contribution": { "disease name": "novel influenza", "location": "55 international metropolitan areas", "date": "February 2009", "R0 value": "1.53", "%CI values": "1.70", "method": "SEIR model" } }, { "contribution": { "disease name": "novel influenza", "location": "55 international metropolitan areas", "date": "February 2009", "R0 value": "1.90", "%CI values": "-", "method": "SEIR model" } } ]
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 259
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "India", "date": "-", "R0 value": "0.8454 and 2.0317", "%CI values": "-", "method": "HPM (homeotopy perturbation method)" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19 and Omicron Outbreak", "location": "India", "date": "January 2022", "R0 value": "0.8454 - 2.0317", "%CI values": "-", "method": "HPM (homotopy perturbation method) and used Mathematica 12 software)" } } ]
+-----------------------------------------
+index: 260
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 261
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "-", "date": "-", "R0 value": "-", "%CI values": "-", "method": "SHEIQRD (Susceptible-Stay at home-Exposed-Infected-Quarantine-Recovery-Death) coronavirus pandemic spread model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "-", "date": "-", "R0 value": "-", "%CI values": "-", "method": "Susceptible-Stay at home-Exposed-Infected-Quarantine-Recovery-Death) coronavirus pandemic spread model" } } ]
+-----------------------------------------
+index: 262
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "California, Texas and, Florida", "date": "-", "R0 value": "-", "%CI values": "-", "method": "exponential growth rate model" } } ]
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 263
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 264
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 265
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 266
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 267
+
+Prediction:
+
+[ { "contribution": { "disease name": "Covid-19", "location": "Lazio", "date": "March 22nd", "R0 value": "3.7", "%CI values": "-", "method": "fitting the exponential growth rate of the infection across a 1month period and also by using day by day assessment, based on single observations" } }, { "contribution": { "disease name": "Covid-19", "location": "Campania region", "date": "March 22nd", "R0 value": "3.6", "%CI values": "-", "method": "day by day assessment, based on single observations" } }, { "contribution": { "disease name": "Covid-19", "location": "Apulia (3.5), Sicily (3.4), Abruzzo (3.4), Calabria (3.1), Basilicata (2.5) and Molise (2.4)", "date": "-", "R0 value": "-", "%CI values": "-", "method": "fitting the exponential growth rate of the infection across a 1month period and also by using day by day assessment, based on single observations" } }, { "contribution": { "disease name": "Covid-19", "location": "South Italian regions", "date": "-", "R0 value": "-", "%CI values": "-", "method": "fitting the exponential growth rate of the infection across a 1month period and also by using day by day assessment, based on single observations" } }, { "contribution": { "disease name": "Covid-19", "location": "South Italian regions", "date": "-", "R0 value": "-", "%CI values": "-", "method": "fitting the exponential growth rate of the infection across a 1month period and also by using day by day assessment, based on single observations" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "Covid-19", "location": "Lombardy, Italy", "date": "across a 1month period", "R0 value": "4.94", "%CI values": "the susceptible exposed infected removed (SEIR) compartment model, by fitting the exponential growth rate of the infection across a 1month period and also by using day by day assessment, based on single observations", "method": "(SEIR) compartment model" } }, { "contribution": { "disease name": "Covid-19", "location": "Tuscany, Italy", "date": "across a 1month period", "R0 value": "4", "%CI values": "the susceptible exposed infected removed (SEIR) compartment model, by fitting the exponential growth rate of the infection across a 1month period and also by using day by day assessment, based on single observations", "method": "(SEIR) compartment model" } }, { "contribution": { "disease name": "Covid-19", "location": "Marche, Italy", "date": "across a 1month period", "R0 value": "4", "%CI values": "the susceptible exposed infected removed (SEIR) compartment model, by fitting the exponential growth rate of the infection across a 1month period and also by using day by day assessment, based on single observations", "method": "(SEIR) compartment model" } }, { "contribution": { "disease name": "Covid-19", "location": "Lazio, Italy", "date": "across a 1month period", "R0 value": "3.7", "%CI values": "the susceptible exposed infected removed (SEIR) compartment model, by fitting the exponential growth rate of the infection across a 1month period and also by using day by day assessment, based on single observations", "method": "(SEIR) compartment model" } }, { "contribution": { "disease name": "Covid-19", "location": "Campania, Italy", "date": "across a 1month period", "R0 value": "3.6", "%CI values": "the susceptible exposed infected removed (SEIR) compartment model, by fitting the exponential growth rate of the infection across a 1month period and also by using day by day assessment, based on single observations", "method": "(SEIR) compartment model" } }, { "contribution": { "disease name": "Covid-19", "location": "Apulia, Italy", "date": "across a 1month period", "R0 value": "3.5", "%CI values": "the susceptible exposed infected removed (SEIR) compartment model, by fitting the exponential growth rate of the infection across a 1month period and also by using day by day assessment, based on single observations", "method": "(SEIR) compartment model" } }, { "contribution": { "disease name": "Covid-19", "location": "Sicily, Italy", "date": "across a 1month period", "R0 value": "3.4", "%CI values": "the susceptible exposed infected removed (SEIR) compartment model, by fitting the exponential growth rate of the infection across a 1month period and also by using day by day assessment, based on single observations", "method": "(SEIR) compartment model" } }, { "contribution": { "disease name": "Covid-19", "location": "Abruzzo, Italy", "date": "across a 1month period", "R0 value": "3.4", "%CI values": "the susceptible exposed infected removed (SEIR) compartment model, by fitting the exponential growth rate of the infection across a 1month period and also by using day by day assessment, based on single observations", "method": "(SEIR) compartment model" } }, { "contribution": { "disease name": "Covid-19", "location": "Calabria, Italy", "date": "across a 1month period", "R0 value": "3.1", "%CI values": "the susceptible exposed infected removed (SEIR) compartment model, by fitting the exponential growth rate of the infection across a 1month period and also by using day by day assessment, based on single observations", "method": "(SEIR) compartment model" } }, { "contribution": { "disease name": "Covid-19", "location": "Basilicata, Italy", "date": "across a 1month period", "R0 value": "2.5", "%CI values": "the susceptible exposed infected removed (SEIR) compartment model, by fitting the exponential growth rate of the infection across a 1month period and also by using day by day assessment, based on single observations", "method": "(SEIR) compartment model" } }, { "contribution": { "disease name": "Covid-19", "location": "Molise, Italy", "date": "across a 1month period", "R0 value": "2.4", "%CI values": "the susceptible exposed infected removed (SEIR) compartment model, by fitting the exponential growth rate of the infection across a 1month period and also by using day by day assessment, based on single observations", "method": "(SEIR) compartment model" } } ]
+-----------------------------------------
+index: 268
+
+Prediction:
+
+[ { "contribution": { "disease name": "SARS", "location": "Hong Kong", "date": "-", "R0 value": "-", "%CI values": "-", "method": "susceptible-exposed-infected-recovered (SEIR) type epidemic model" } } ]
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 269
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Europe", "date": "-", "R0 value": "9", "%CI values": "-", "method": "compartmental SEIAR model of epidemic spread as a generalization of the SEIR model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "European countries", "date": "-", "R0 value": "up to around 9", "%CI values": "-", "method": "compartmental SEIAR model of epidemic spread as a generalization of the SEIR model" } } ]
+-----------------------------------------
+index: 270
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Rohingya refugee camps of Bangladesh", "date": "-", "R0 value": "-", "%CI values": "-", "method": "modified Susceptible-Exposed-Infectious-Recovered (SEIR) transmission model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Rohingya Refugee Camp, Bangladesh", "date": "end of December 2020", "R0 value": "0.7563", "%CI values": "-", "method": "modified Susceptible-Exposed-Infectious-Recovered (SEIR) transmission model" } } ]
+-----------------------------------------
+index: 271
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 272
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 273
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 274
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 275
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 276
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 277
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 278
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "-", "date": "-", "R0 value": "closer to 1", "%CI values": "-", "method": "susceptible-exposed-infectious-removed model with a nonlinear incidence rate" } } ]
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 279
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 280
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 281
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 282
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 283
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 284
+
+Prediction:
+
+[ { "contribution": { "disease name": "2019-nCoV", "location": "Wuhan", "date": "7 January, 2020", "R0 value": "-", "%CI values": "-", "method": "Reservoir-People transmission network model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "2019-nCoV", "location": "-", "date": "-", "R0 value": "-", "%CI values": "-", "method": "Reservoir-People transmission network model." } } ]
+-----------------------------------------
+index: 285
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 286
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "India", "date": "-", "R0 value": "-", "%CI values": "-", "method": "compartmental model" } } ]
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 287
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 288
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "India", "date": "-", "R0 value": "2.56", "%CI values": "-", "method": "exponential growth model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "India", "date": "until the end of April", "R0 value": "2.56", "%CI values": "-", "method": "mathematical model" } } ]
+-----------------------------------------
+index: 289
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 290
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 291
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 292
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 293
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Qom, Iran", "date": "-", "R0 value": "between 2 and 3", "%CI values": "-", "method": "time-varying method" } }, { "contribution": { "disease name": "COVID-19", "location": "China, Italy and South Korea", "date": "-", "R0 value": "-", "%CI values": "-", "method": "time-varying method" } }, { "contribution": { "disease name": "COVID-19", "location": "China, Italy and South Korea", "date": "-", "R0 value": "-", "%CI values": "-", "method": "time-varying method" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Qom, Iran", "date": "early phase of the outbreak", "R0 value": "2 and 3", "%CI values": "-", "method": "time-varying method" } }, { "contribution": { "disease name": "COVID-19", "location": "South Korea", "date": "early phase of the outbreak", "R0 value": "1.5-2", "%CI values": "-", "method": "time-varying method" } }, { "contribution": { "disease name": "COVID-19", "location": "Iran", "date": "early phase of the outbreak", "R0 value": "4-5", "%CI values": "-", "method": "time-varying method" } }, { "contribution": { "disease name": "COVID-19", "location": "China", "date": "early phase of the outbreak", "R0 value": "-", "%CI values": "-", "method": "time-varying method" } }, { "contribution": { "disease name": "COVID-19", "location": "Italy", "date": "early phase of the outbreak", "R0 value": "-", "%CI values": "-", "method": "time-varying method" } } ]
+-----------------------------------------
+index: 294
+
+Prediction:
+
+"unanswerable"
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 295
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Large Penitentiary Complex, Brazil", "date": "April-June 2020", "R0 value": "1.0-2.3", "%CI values": "-", "method": "-" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "coronavirus disease", "location": "large penitentiary complex in Brazil", "date": "on April 1, 2020. By June 12", "R0 value": "1.0-2.3", "%CI values": "-", "method": "-" } } ]
+-----------------------------------------
+index: 296
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "-", "date": "up to May 10, 2020", "R0 value": "3.14", "%CI values": "(95% CI: 2.69-3.59)", "method": "DerSimonian-Laird (inverse variance) method" } } ]
+
+Label: 
+
+"unanswerable"
+-----------------------------------------
+index: 297
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "American countries", "date": "-", "R0 value": "-", "%CI values": "-", "method": "maximum likelihood method" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "American countries", "date": "-", "R0 value": "-", "%CI values": "-", "method": "maximum likelihood method" } } ]
+-----------------------------------------
+index: 298
+
+Prediction:
+
+[ { "contribution": { "disease name": "COVID-19", "location": "United States (U.S.)", "date": "-", "R0 value": "R(0)1", "%CI values": "-", "method": "-" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "USA", "date": "-", "R0 value": "1", "%CI values": "-", "method": "-" } } ]
+-----------------------------------------
+index: 299
+
+Prediction:
+
+[ { "contribution": { "disease name": "coronavirus disease (COVID-19)", "location": "Bangladesh", "date": "-", "R0 value": "6.924", "%CI values": "-", "method": "SIR mathematical model" } } ]
+
+Label: 
+
+[ { "contribution": { "disease name": "COVID-19", "location": "Bangladesh", "date": "until 31 May 2020", "R0 value": "6.924", "%CI values": "-", "method": "SIR mathematical model" } } ]
