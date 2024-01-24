@@ -25,31 +25,3 @@
     ├── requirements.txt                                        <- contains python requirements listed with specifying the versions
 ```
 
-## Overview
-
-### Aims
-``...``
-
-### Approach
-``...``
-
-### Dataset
-``...``
-
-### Limitations 
-``...``
-
-### Useful Links
-* ``...``
-* ``...``
-
-## How to Run
-
-### Prerequisites
-
-#### Software Dependencies
-
-
-#### Hardware Resources
-
-### Service Retraining
