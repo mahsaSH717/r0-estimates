@@ -38,12 +38,17 @@ With this dataset, we instruction fine-tuned [Flan-T5 large](https://huggingface
 
 We finetuned 40 models overall using different combinations of instruction templates from drop and squad_v2, some models only with one instruction, some with multiple (best combinations), and also with all instructions. Other than the templates, one category of our models produces just a structured text as a result while the other category is trained to produce a valid JSON string as their response. The best model from the category of JSON generators is available at Huggingface  [R0_contribution_IE ](https://huggingface.co/orkg/R0_contribution_IE).
 
-### dataset
+### Dataset
 To create the dataset of this work, the [cord-19 collection](https://github.com/allenai/cord19) was used as the initial corpus. We created the final dataset of r0-contributions using the scripts under [/src/data](/src/data) and the process of manual annotation. the resulting dataset is located at [data/raw/cord19_train_dev_test](data/raw/cord19_train_dev_test) in Excel format. As we aimed to instruction finetune the models, we further fed this raw data into the templates and created json datasets available under [data/processed](data/processed). Other than JSON files, we built the datasets in arrow format, which is more convenient to work with. The datasets in arrow format are available under [data/processed/final_datasets](data/processed/final_datasets), each directory inside this path contains a dataset, and the training set is based on the template in the folder name.
 
-### fine-tuning scripts and resulting models
+### Experiments
+All the scripts used for experiments in this work are available under [src/experiments](src/experiments), including scripts for finetuning and evaluating in general.
+The finetuning scripts are supposed to work with the corresponding dataset from [data/processed/final_datasets](data/processed/final_datasets) and result in model files and tokenizer to be saved under the proper path inside [/models](/models). Due to the large sizes of these models, [models](models) in this repository is left empty and no model is available in this repository for download.
 
-### evaluation scripts
+running evaluation/zero-shot scripts under [src/experiments](src/experiments) will create the results under [experimental_results](experimental_results). 
+This work also contains a custom evaluation script which calculates the evaluation metrics in a general and fine-grained level available under [src/util](src/util)
+
+
 
 
 
